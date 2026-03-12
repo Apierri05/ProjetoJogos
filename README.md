@@ -37,6 +37,8 @@ O jogo possui dois públicos alvos:
 * **Alívio do Tédio (Passatempo):** Oferece uma estrutura de níveis que pode ser consumida em sessões curtas ou longas preenchendo o tempo vago.
 * **Resolução de Problemas:** Proporciona a satisfação intelectual de superar obstáculos através de uma série de decisões tomadas em dupla.
 
+---
+
 ## 3. Estética
 
 ### 3.1 Personagens
