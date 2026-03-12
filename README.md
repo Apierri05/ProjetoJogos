@@ -79,3 +79,28 @@ O Reino dos Feiano vivia em paz até que **Kawan, o Rei Come-Come**, decidiu que
 ### 3.3 Sentidos
 * **Visual:** Estética colorida 2D com estilo "retrô-moderno". Uso de partículas de eletricidade para Alexandre e animações de rotação para os machados e rodas de Astra.
 * **Sonoro:** Uma trilha sonora heróica. Efeitos sonoros de "zap" para os raios e um som de motor engasgando toda vez que Kawan aparece com seu Astra.
+
+---
+
+## 4. Dinâmica
+
+### 4.1 Elementos de Atenção e Envolvimento
+A dinâmica de jogo é sustentada pelo laço emocional com o NPC Jujuca e pela rivalidade com Kawan.
+
+* **Atenção (Interesse Imediato):** * **Mecânica de Feedback Visual:** O brilho dos raios de Alexandre e o impacto dos machados de Gabriel geram satisfação visual instantânea (o "suco" do jogo).
+    * **Urguência Narrativa:** A visão dos Mini Come-Comes carregando sacos de cookies ao fundo do cenário mantém os jogadores focados no objetivo de perseguição.
+* **Envolvimento (Interesse de Longo Prazo):**
+    * **Progressão da Taverna:** Conforme a dupla recupera os estoques de cookies, a Taverna do Jujuca vai sendo reconstruída e decorada, servindo como um "hub" que mostra o progresso visual da jornada.
+    * **Lealdade ao NPC:** O desejo de ver o "lendário" Jujuca feliz novamente cria um investimento emocional que motiva os jogadores a enfrentar fases mais difíceis.
+
+### 4.2 Tipos de Decisões dos Jogadores
+O jogo é definido como uma "série de decisões interessantes" tomadas em dupla:
+
+* **Decisões Integradas:** Cada escolha de Alexandre (como eletrificar uma plataforma) afeta diretamente o que Gabriel pode fazer. Eles não jogam paralelamente, mas de forma coperativa.
+* **Decisões de Dois Gumes:** Alexandre deve decidir se atravessa uma área perigosa para ativar um botão que facilita o caminho para Gabriel, mesmo correndo o risco de tocar na água.
+* **Decisões Ambíguas:** Em puzzles mais avançados, não haverá uma única ordem correta de quem deve passar primeiro. A dupla precisará debater a estratégia, gerando a dinâmica de comunicação verbal.
+
+### 4.3 Guiando o Jogador (Orientação)
+* **Orientação Direta:** Jujuca aparece em placas ou balões de fala indicando "Este caminho leva ao estoque de Cookies!". Sinais de raio no cenário apontam onde a eletricidade de Alexandre pode ser aplicada.
+* **Orientação Indireta:** * **Design de Nível (Level Design):** Colocação de Mini Come-Comes em plataformas que só podem ser atingidas pelo machado de Gabriel, forçando organicamente os jogadores a entenderem quem deve agir em cada momento.
+    * **Pistas Visuais:** Objetos metálicos que brilham levemente indicam que são condutores para o poder de Alexandre.
