@@ -104,3 +104,34 @@ O jogo é definido como uma "série de decisões interessantes" tomadas em dupla
 * **Orientação Direta:** Jujuca aparece em placas ou balões de fala indicando "Este caminho leva ao estoque de Cookies!". Sinais de raio no cenário apontam onde a eletricidade de Alexandre pode ser aplicada.
 * **Orientação Indireta:** * **Design de Nível (Level Design):** Colocação de Mini Come-Comes em plataformas que só podem ser atingidas pelo machado de Gabriel, forçando organicamente os jogadores a entenderem quem deve agir em cada momento.
     * **Pistas Visuais:** Objetos metálicos que brilham levemente indicam que são condutores para o poder de Alexandre.
+
+## 5. Mecânica
+
+Nesta seção, definimos as regras e os limites que transformam a experiência em um "conflito estruturado".
+
+### 5.1 Padrão de Interação
+O jogo utiliza o padrão de **Cooperação Local**. Dois jogadores controlam personagens distintos (Alexandre e Gabriel) simultaneamente no mesmo ambiente, onde o progresso de um depende diretamente da ação do outro.
+
+### 5.2 Objetivos e Condições de Vitória/Derrota
+
+* **Objetivo Principal:** Atravessar o cenário superando os puzzles e os Mini Come-Comes para alcançar a saída.
+* **Condição de Vitória:** Ambos os jogadores devem atravessar a **Porta de Saída** ao final de cada nível. A vitória só é contabilizada se os dois heróis estiverem presentes na zona de transição.
+* **Condição de Derrota:** O jogo é interrompido e o nível reiniciado se:
+    * Um dos jogadores for atingido pelo **Exército de Come-Come** (contato direto).
+    * Um dos jogadores cair em um **Penhasco** (limite inferior do mapa).
+    * **Alexandre** entrar em contato com a **Água** (devido à sua limitação elétrica).
+    * Um dos jogadores for atingido pelos projéteis (rodas de Astra) do Rei Kawan.
+
+### 5.3 Regras do Jogo
+1.  **Interdependência de Movimentação:** Gabriel não possui pulo duplo; portanto, Alexandre deve ativar mecanismos (plataformas elevatórias) usando seu raio para permitir que Gabriel avance.
+2.  **Combate:** Apenas Gabriel pode eliminar inimigos à distância usando seus machados. Alexandre deve focar em desviar e manipular o ambiente.
+3.  **Gestão de Recursos:** Os machados de Gabriel podem ser limitados por nível, exigindo que o jogador os use estrategicamente para limpar o caminho para Alexandre.
+
+### 5.4 Procedimentos e Limites do Mapa
+* **Procedimentos:** O jogo segue o *Game Loop* tradicional: Processar Inputs (teclado/controle) -> Atualizar Mundo (movimento, colisões, física) -> Gerar Saídas (gráficos e sons de cookies sendo coletados).
+* **Limites do Mapa:** * **Paredes Invisíveis/Cenário:** Delimitam a área de jogo.
+    * **Zonas de Perigo:** Água e buracos que causam derrota instantânea, reforçando o "obstáculo desnecessário" que define o jogo.
+
+### 5.5 Resultados do Jogo
+* **Pós-Vitória:** É exibida uma tela dos herois voltando para o Reino dos Feiano e sendo recebidos pelos habitantes que fizeram uma festa após recuperarem os cookies.
+* **Pós-Derrota:** Uma animação cômica de Kawan comendo os cookies roubados é exibida, seguida pela opção de "Tentar Novamente" para incentivar a atitude lúdica.
