@@ -3,11 +3,9 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
-- Nome Componente 4
-- Nome Componente 5
+- Gabriel Albertini Pinheiro | 22.124.094-8
+- Alexandre Domiciano Pierri | 22.125.061-6
+- Kawan Mark Geronimo | R.A: 22.222.010-5
 
 ## Tópicos
 - [Introdução](./docs/1-introducao.md)
