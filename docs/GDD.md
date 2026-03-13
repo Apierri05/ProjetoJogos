@@ -1,4 +1,4 @@
-# GDD: Game Design Document
+# GDD: Documento de uma folha
 
 ## 1. Título do Jogo
 **A Odisséia dos Cookies**
