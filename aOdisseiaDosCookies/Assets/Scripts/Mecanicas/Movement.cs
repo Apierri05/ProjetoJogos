@@ -4,6 +4,7 @@ using UnityEngine;
 * classe helper para definir a movimentacao
 * do jogador
 */
+[RequireComponent(typeof(Rigidbody2D))]
 public class Movement : MonoBehaviour{
 
 	[SerializeField] private CharacterStats stats;
@@ -15,7 +16,7 @@ public class Movement : MonoBehaviour{
 	public bool IsMoving => Mathf.Abs(rb.linearVelocity.x) > 0.1f;
 	public bool IsFacingRight => isFacingRight;
 
-	private void Start(){
+	private void Awake(){
 		rb = GetComponent<Rigidbody2D>();
 	}
 

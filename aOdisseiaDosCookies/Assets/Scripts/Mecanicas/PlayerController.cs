@@ -10,22 +10,22 @@ public abstract class PlayerController : MonoBehaviour
     protected abstract KeyCode InteractKey { get; }
 
     private Movement movement;
-    private Jump     jump;
+    private Jump jump;
 
     private void Awake()
     {
         movement = GetComponent<Movement>();
-        jump     = GetComponent<Jump>();
+        jump = GetComponent<Jump>();
     }
 
     private void Update()
     {
-        float dir = 0f;
-        if (Input.GetKey(LeftKey))  dir -= 1f;
-        if (Input.GetKey(RightKey)) dir += 1f;
+        float dir = 0.0f;
+        if (Input.GetKey(LeftKey))  dir -= 1.0f;
+        if (Input.GetKey(RightKey)) dir += 1.0f;
         movement.MovementDirection(dir);
 
-        if (Input.GetKeyDown(JumpKey))     jump.TryJump();
+        if (Input.GetKeyDown(JumpKey)) jump.TryJump();
         if (Input.GetKeyDown(InteractKey)) Interact();
     }
 

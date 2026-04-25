@@ -8,26 +8,24 @@ using UnityEngine;
 public class Jump : MonoBehaviour
 {
     [SerializeField] private CharacterStats stats;
-    [SerializeField] private Transform      groundCheck;
+    [SerializeField] private Transform groundCheck;
 
     private Rigidbody2D rb;
-    private bool        isGrounded;
-    private bool        hasDoubleJump;
+    private bool isGrounded;
+    private bool hasDoubleJump;
 
     public bool IsGrounded => isGrounded;
 
-    private void Awake()
-    {
+    private void Awake(){
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
-    {
+    private void Update(){
         CheckGround();
     }
+	
 
-    private void CheckGround()
-    {
+    private void CheckGround(){
         bool wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(
             groundCheck.position,
@@ -35,28 +33,25 @@ public class Jump : MonoBehaviour
             stats.groundLayer
         );
 
-        // Ao tocar o chão, restaura o double jump
+        // somente restaura o pulo duplo se tocar no chao de novo
         if (!wasGrounded && isGrounded)
             hasDoubleJump = stats.canDoubleJump;
     }
-
-    // Chamado pelo PlayerInput quando o botão de pulo é pressionado
-    public void TryJump()
-    {
-        if (isGrounded)
-        {
+	
+	// verifica se o cara esta no chao antes de pular, para evitar pulo duplo
+    public void TryJump(){
+		Debug.Log("Personagem esta tentando pular");
+        if (isGrounded){
             PerformJump();
             hasDoubleJump = stats.canDoubleJump;
         }
-        else if (hasDoubleJump)
-        {
+        else if (hasDoubleJump){
             PerformJump();
             hasDoubleJump = false;
         }
     }
 
-    private void PerformJump()
-    {
+    private void PerformJump(){
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // zera velocidade vertical
         rb.AddForce(Vector2.up * stats.jumpForce, ForceMode2D.Impulse);
     }
