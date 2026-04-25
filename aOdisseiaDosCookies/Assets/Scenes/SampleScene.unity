@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd480fbb47967915480db3ff0aba6784, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jump
-  stats: {fileID: 0}
+  stats: {fileID: 11400000, guid: e136760c845165d26b32784670c289e2, type: 2}
   groundCheck: {fileID: 612042908}
 --- !u!114 &180362452
 MonoBehaviour:
