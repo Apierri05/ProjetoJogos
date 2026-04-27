@@ -27,11 +27,12 @@ public class Jump : MonoBehaviour
 
     private void CheckGround(){
         bool wasGrounded = isGrounded;
-        isGrounded = Physics2D.OverlapCircle(
+        Collider2D hit = Physics2D.OverlapCircle(
             groundCheck.position,
             stats.groundCheckRadius,
             stats.groundLayer
         );
+        isGrounded = hit != null;
 
         // somente restaura o pulo duplo se tocar no chao de novo
         if (!wasGrounded && isGrounded)
@@ -40,12 +41,14 @@ public class Jump : MonoBehaviour
 	
 	// verifica se o cara esta no chao antes de pular, para evitar pulo duplo
     public void TryJump(){
-		Debug.Log("Personagem esta tentando pular");
+		//Debug.Log("Personagem esta tentando pular");
         if (isGrounded){
+			//Debug.Log("Pulo saindo do chao");
             PerformJump();
             hasDoubleJump = stats.canDoubleJump;
         }
         else if (hasDoubleJump){
+			//Debug.Log("Double Jump");
             PerformJump();
             hasDoubleJump = false;
         }

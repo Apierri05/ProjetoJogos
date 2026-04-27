@@ -16,7 +16,7 @@ MonoBehaviour:
   jumpForce: 5
   canDoubleJump: 0
   maxHealth: 3
-  groundCheckRadius: 0.2
+  groundCheckRadius: 0.1
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
