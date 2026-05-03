@@ -16,6 +16,7 @@ public class Movement : MonoBehaviour{
 
 	public bool IsMoving => Mathf.Abs(rb.linearVelocity.x) > 0.1f;
 	public bool IsFacingRight => isFacingRight;
+	public Animator Animator => animator;
 
 	private void Awake(){
 		rb = GetComponent<Rigidbody2D>();

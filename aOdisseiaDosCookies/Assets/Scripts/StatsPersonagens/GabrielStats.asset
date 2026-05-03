@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GabrielStats
   moveSpeed: 4
   jumpForce: 10
-  canDoubleJump: 1
+  canDoubleJump: 0
   maxHealth: 3
   groundCheckRadius: 0.1
   groundLayer:

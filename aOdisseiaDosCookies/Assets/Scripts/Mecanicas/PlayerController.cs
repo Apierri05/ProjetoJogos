@@ -9,16 +9,16 @@ public abstract class PlayerController : MonoBehaviour
     protected abstract KeyCode JumpKey     { get; }
     protected abstract KeyCode InteractKey { get; }
 
-    private Movement movement;
+    protected Movement movement;
     private Jump jump;
 
-    private void Awake()
+    protected virtual void Awake()
     {
         movement = GetComponent<Movement>();
         jump = GetComponent<Jump>();
     }
 
-    private void Update()
+    protected virtual void Update()
     {
         float dir = 0.0f;
         if (Input.GetKey(LeftKey))  dir -= 1.0f;
@@ -26,7 +26,11 @@ public abstract class PlayerController : MonoBehaviour
         movement.MovementDirection(dir);
 
         if (Input.GetKeyDown(JumpKey)) jump.TryJump();
-        if (Input.GetKeyDown(InteractKey)) Interact();
+        if (Input.GetKeyDown(InteractKey))
+        {
+            Debug.Log($"[{GetType().Name}] Interact detectado - tecla {InteractKey}");
+            Interact();
+        }
     }
 
     protected abstract void Interact();
