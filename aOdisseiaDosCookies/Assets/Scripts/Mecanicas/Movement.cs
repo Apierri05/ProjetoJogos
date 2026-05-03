@@ -8,6 +8,7 @@ using UnityEngine;
 public class Movement : MonoBehaviour{
 
 	[SerializeField] private CharacterStats stats;
+	[SerializeField] private Animator animator;
 
 	private Rigidbody2D rb;
 	private float playerSpeed;
@@ -25,6 +26,13 @@ public class Movement : MonoBehaviour{
 	// dir > 0 o cara esta indo para a direita
 	public void MovementDirection(float dir){
 		playerSpeed = dir;
+
+		if(dir == 0){
+			animator.SetBool("isRunning", false);
+		}
+		else{
+			animator.SetBool("isRunning", true);
+		}
 	}
 
 	private void FixedUpdate(){

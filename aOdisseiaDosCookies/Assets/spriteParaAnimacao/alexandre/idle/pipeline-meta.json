@@ -1,0 +1,46 @@
+{
+  "base": "/home/albert/Documents/alexandreAndando/frame_000.png",
+  "frame_size": [
+    480,
+    772
+  ],
+  "n_frames": 8,
+  "layout": "2x4",
+  "amplitude_y_px": 6,
+  "amplitude_x_px": 1,
+  "duration_ms": 120,
+  "offsets_xy": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -4
+    ],
+    [
+      1,
+      -6
+    ],
+    [
+      1,
+      -4
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      0,
+      4
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "base": "/home/albert/Documents/gabrielAndando/frame_000.png",
+  "frame_size": [
+    640,
+    640
+  ],
+  "n_frames": 30,
+  "layout": "3\u00d710",
+  "bob_amplitude_px": 15,
+  "sway_amplitude_px": 3,
+  "duration_ms": 100,
+  "cycle_seconds": 3.0,
+  "content_bounds": {
+    "top": 42,
+    "bottom": 597,
+    "left": 187,
+    "right": 452
+  }
+}
