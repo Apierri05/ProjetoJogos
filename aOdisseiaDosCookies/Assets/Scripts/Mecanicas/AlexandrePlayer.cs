@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class AlexandrePlayer : PlayerController
@@ -8,7 +9,7 @@ public class AlexandrePlayer : PlayerController
     protected override KeyCode InteractKey => KeyCode.S;
 
     private RaioAlexandre raio;
-	
+
 	public AudioSource audioSource;
 
     protected override void Awake()
@@ -23,10 +24,16 @@ public class AlexandrePlayer : PlayerController
         raio.Atirar();
         if (movement.Animator != null)
         {
-            Debug.Log("Animator OK, disparando trigger atirarRaio");
-            movement.Animator.SetTrigger("atirarRaio");
+            movement.Animator.SetBool("atirarRaio", true);
+            StartCoroutine(ResetAtirarRaio());
         }
         else
             Debug.LogError("Animator esta nulo no Movement do Alexandre");
+    }
+
+    private IEnumerator ResetAtirarRaio()
+    {
+        yield return new WaitForSeconds(0.6f);
+        movement.Animator.SetBool("atirarRaio", false);
     }
 }

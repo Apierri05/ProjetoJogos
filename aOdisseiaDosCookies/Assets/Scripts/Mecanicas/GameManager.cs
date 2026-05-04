@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -16,12 +17,28 @@ public class GameManager : MonoBehaviour
 		AlexandrePlayer alexandre = FindFirstObjectByType<AlexandrePlayer>();
 		GabrielPlayer gabriel = FindFirstObjectByType<GabrielPlayer>();
 
-		if (alexandre != null && gabriel != null)
+		Collider2D colAle = alexandre?.GetComponent<Collider2D>();
+		Collider2D colGab = gabriel?.GetComponent<Collider2D>();
+
+		if (colAle != null && colGab != null)
+			Physics2D.IgnoreCollision(colAle, colGab);
+
+		CaixaMetalica[]  caixas   = FindObjectsByType<CaixaMetalica> (FindObjectsSortMode.None);
+		MiniComeCome[]   inimigos = FindObjectsByType<MiniComeCome>   (FindObjectsSortMode.None);
+
+		foreach (CaixaMetalica caixa in caixas)
 		{
-			Collider2D colAle = alexandre.GetComponent<Collider2D>();
-			Collider2D colGab = gabriel.GetComponent<Collider2D>();
-			if (colAle != null && colGab != null)
-				Physics2D.IgnoreCollision(colAle, colGab);
+			Collider2D colCaixa = caixa.GetComponent<Collider2D>();
+			if (colCaixa == null) continue;
+
+			if (colAle != null) Physics2D.IgnoreCollision(colAle,  colCaixa);
+			if (colGab != null) Physics2D.IgnoreCollision(colGab,  colCaixa);
+
+			foreach (MiniComeCome inimigo in inimigos)
+			{
+				Collider2D colInimigo = inimigo.GetComponent<Collider2D>();
+				if (colInimigo != null) Physics2D.IgnoreCollision(colInimigo, colCaixa);
+			}
 		}
 	}
     void Awake()
@@ -44,5 +61,10 @@ public class GameManager : MonoBehaviour
         Debug.Log("Saída liberada!");
 
         portaSaida.GetComponent<PortaSaida>().Liberar();
+    }
+
+    public void MorrerJogadores()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
