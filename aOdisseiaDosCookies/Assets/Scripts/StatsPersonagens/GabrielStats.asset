@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GabrielStats
   m_EditorClassIdentifier: Assembly-CSharp::GabrielStats
   moveSpeed: 4
-  jumpForce: 10
+  jumpForce: 11
   canDoubleJump: 0
   maxHealth: 3
   groundCheckRadius: 0.1
