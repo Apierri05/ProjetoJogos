@@ -1,25 +1,30 @@
 using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
-using TMPro; 
+using TMPro;
 
 public class Dialogo : MonoBehaviour
 {
+    [System.Serializable]
+    public class CutsceneEvent
+    {
+        public int lineIndex;
+        public GameObject target;
+        public bool activate;
+    }
 
     public TextMeshProUGUI textComponent;
     public string[] lines;
     public float textSpeed;
+
+    [SerializeField] private CutsceneEvent[] events;
+
     private int index;
-
-
 
     void Start()
     {
         textComponent.text = string.Empty;
         StartDialog();
     }
-
-
 
     void Update()
     {
@@ -37,13 +42,12 @@ public class Dialogo : MonoBehaviour
         }
     }
 
-
     void StartDialog()
     {
         index = 0;
+        CheckEvents(); // executa eventos da primeira linha
         StartCoroutine(TypeLine());
     }
-
 
     IEnumerator TypeLine()
     {
@@ -54,12 +58,14 @@ public class Dialogo : MonoBehaviour
         }
     }
 
-
     void NextLine()
     {
         if (index < lines.Length - 1)
         {
             index++;
+
+            CheckEvents(); // executa eventos da linha atual
+
             textComponent.text = string.Empty;
             StartCoroutine(TypeLine());
         }
@@ -69,7 +75,17 @@ public class Dialogo : MonoBehaviour
         }
     }
 
-
-
-
+    void CheckEvents()
+    {
+        for (int x = 0; x < events.Length; x++)
+        {
+            if (events[x].lineIndex == index)
+            {
+                if (events[x].target != null)
+                {
+                    events[x].target.SetActive(events[x].activate);
+                }
+            }
+        }
+    }
 }
