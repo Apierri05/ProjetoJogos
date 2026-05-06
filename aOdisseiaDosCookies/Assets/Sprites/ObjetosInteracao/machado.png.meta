@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: e3d5912d0ae386a139af459ed5870027
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3615744542873261963
+    second: machado_0
+  - first:
+      213: -434583020313127017
+    second: machado_1
+  - first:
+      213: -1379853568711592066
+    second: machado_2
+  - first:
+      213: -1158084579634903205
+    second: machado_3
+  - first:
+      213: -7018750676485150229
+    second: machado_4
+  - first:
+      213: 3062655438571052714
+    second: machado_5
+  - first:
+      213: 3470105677705036037
+    second: machado_6
+  - first:
+      213: -4317193620159878944
+    second: machado_7
+  - first:
+      213: -5253074152404535552
+    second: machado_8
+  - first:
+      213: -2309700258902706476
+    second: machado_9
+  - first:
+      213: -3070481842060193593
+    second: machado_10
+  - first:
+      213: -37766199231249236
+    second: machado_11
+  - first:
+      213: -2489977680175185785
+    second: machado_12
+  - first:
+      213: 6211080286552687876
+    second: machado_13
+  - first:
+      213: -3310647119188538651
+    second: machado_14
+  - first:
+      213: 2520383215351779773
+    second: machado_15
+  - first:
+      213: 3152163277421197369
+    second: machado_16
+  - first:
+      213: -7541674351320050088
+    second: machado_17
+  - first:
+      213: -1941889060838700708
+    second: machado_18
+  - first:
+      213: -5422647576533181175
+    second: machado_19
+  - first:
+      213: -7595409225754940993
+    second: machado_20
+  - first:
+      213: 2615431613497726076
+    second: machado_21
+  - first:
+      213: -2416803405632087776
+    second: machado_22
+  - first:
+      213: 7245491714642994162
+    second: machado_23
+  - first:
+      213: -6606198507994004805
+    second: machado_24
+  - first:
+      213: 2526371740189992672
+    second: machado_25
+  - first:
+      213: 5849615348184840947
+    second: machado_26
+  - first:
+      213: -1697305390834819494
+    second: machado_27
+  - first:
+      213: 3831879897329337325
+    second: machado_28
+  - first:
+      213: -1583117373284206250
+    second: machado_29
+  - first:
+      213: 4157976751067919247
+    second: machado_30
+  - first:
+      213: 5899495963087941008
+    second: machado_31
+  - first:
+      213: 3891258859518673660
+    second: machado_32
+  - first:
+      213: 5080500266922353087
+    second: machado_33
+  - first:
+      213: 4663734092998998538
+    second: machado_34
+  - first:
+      213: 7241424527440745851
+    second: machado_35
+  - first:
+      213: -155142928199240714
+    second: machado_36
+  - first:
+      213: 2837606778360361199
+    second: machado_37
+  - first:
+      213: 6249269436833074606
+    second: machado_38
+  - first:
+      213: 3210396623451676270
+    second: machado_39
+  - first:
+      213: -6628989865559629395
+    second: machado_40
+  - first:
+      213: 2524053373024265722
+    second: machado_41
+  - first:
+      213: -3643420064733180996
+    second: machado_42
+  - first:
+      213: -5933208363389366661
+    second: machado_43
+  - first:
+      213: -3909888470835195963
+    second: machado_44
+  - first:
+      213: 1045168256657611879
+    second: machado_45
+  - first:
+      213: 3263163756327051889
+    second: machado_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: machado_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 551
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5786b7bce7b42ddc0800000000000000
+      internalID: -3615744542873261963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 547
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d1d8ab0d08f9f0800000000000000
+      internalID: -434583020313127017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 551
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f3e27d76c9dce0800000000000000
+      internalID: -1379853568711592066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 546
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57010be538adefe0800000000000000
+      internalID: -1158084579634903205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 550
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9e1195273689e90800000000000000
+      internalID: -7018750676485150229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 549
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae127d05ecb08a20800000000000000
+      internalID: 3062655438571052714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 485
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501ccac7aba482030800000000000000
+      internalID: 3470105677705036037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 485
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a9c3a64f3614c0800000000000000
+      internalID: -4317193620159878944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 485
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007342fe3e45917b0800000000000000
+      internalID: -5253074152404535552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 483
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f9721adb42ffd0800000000000000
+      internalID: -2309700258902706476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 484
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c017b268057365d0800000000000000
+      internalID: -3070481842060193593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 482
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca40e4687d3d97ff0800000000000000
+      internalID: -37766199231249236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 418
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c18a0e72d17dd0800000000000000
+      internalID: -2489977680175185785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 418
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4058767ec90323650800000000000000
+      internalID: 6211080286552687876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 418
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac8145cf73e02d0800000000000000
+      internalID: -3310647119188538651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 417
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db156e84e233af220800000000000000
+      internalID: 2520383215351779773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 421
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938b8b8cccbbebb20800000000000000
+      internalID: 3152163277421197369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 354
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d4ed8227965790800000000000000
+      internalID: -7541674351320050088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 354
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590e7f00360d05e0800000000000000
+      internalID: -1941889060838700708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 361
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5b9272c2eeb4b0800000000000000
+      internalID: -5422647576533181175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 354
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e6272d8fa79690800000000000000
+      internalID: -7595409225754940993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 355
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74dbd00231eb4420800000000000000
+      internalID: 2615431613497726076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 291
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029585b7b1ac57ed0800000000000000
+      internalID: -2416803405632087776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 290
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e45283582d8460800000000000000
+      internalID: 7245491714642994162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 298
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb24d4745711254a0800000000000000
+      internalID: -6606198507994004805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62c9066b97f0320800000000000000
+      internalID: 2526371740189992672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 286
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fafa35aa220e2150800000000000000
+      internalID: 5849615348184840947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 286
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5fef5db5f178e0800000000000000
+      internalID: -1697305390834819494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 226
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de38646e6729d2530800000000000000
+      internalID: 3831879897329337325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 225
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65935aff223a70ae0800000000000000
+      internalID: -1583117373284206250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 225
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837cbf33d914b930800000000000000
+      internalID: 4157976751067919247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d25b152583fd150800000000000000
+      internalID: 5899495963087941008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 228
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2c3b2e057800630800000000000000
+      internalID: 3891258859518673660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 223
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb12f2b3310918640800000000000000
+      internalID: 5080500266922353087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7514b279e8b040800000000000000
+      internalID: 4663734092998998538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7518e1bd35be7460800000000000000
+      internalID: 7241424527440745851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3354b2452d8ddf0800000000000000
+      internalID: -155142928199240714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f864a454316720800000000000000
+      internalID: 2837606778360361199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead0428517dd9b650800000000000000
+      internalID: 6249269436833074606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 159
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e53f838be9d8c20800000000000000
+      internalID: 3210396623451676270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da167a3d6d81104a0800000000000000
+      internalID: -6628989865559629395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 97
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5ec357b2d370320800000000000000
+      internalID: 2524053373024265722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4c0a31c8ff6dc0800000000000000
+      internalID: -3643420064733180996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 96
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eccc1dd6209ada0800000000000000
+      internalID: -5933208363389366661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 98
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf0978b6294db9c0800000000000000
+      internalID: -3909888470835195963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c579cedfe218e00800000000000000
+      internalID: 1045168256657611879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machado_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 382
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172adcbb526194d20800000000000000
+      internalID: 3263163756327051889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      machado_0: -3615744542873261963
+      machado_1: -434583020313127017
+      machado_10: -3070481842060193593
+      machado_11: -37766199231249236
+      machado_12: -2489977680175185785
+      machado_13: 6211080286552687876
+      machado_14: -3310647119188538651
+      machado_15: 2520383215351779773
+      machado_16: 3152163277421197369
+      machado_17: -7541674351320050088
+      machado_18: -1941889060838700708
+      machado_19: -5422647576533181175
+      machado_2: -1379853568711592066
+      machado_20: -7595409225754940993
+      machado_21: 2615431613497726076
+      machado_22: -2416803405632087776
+      machado_23: 7245491714642994162
+      machado_24: -6606198507994004805
+      machado_25: 2526371740189992672
+      machado_26: 5849615348184840947
+      machado_27: -1697305390834819494
+      machado_28: 3831879897329337325
+      machado_29: -1583117373284206250
+      machado_3: -1158084579634903205
+      machado_30: 4157976751067919247
+      machado_31: 5899495963087941008
+      machado_32: 3891258859518673660
+      machado_33: 5080500266922353087
+      machado_34: 4663734092998998538
+      machado_35: 7241424527440745851
+      machado_36: -155142928199240714
+      machado_37: 2837606778360361199
+      machado_38: 6249269436833074606
+      machado_39: 3210396623451676270
+      machado_4: -7018750676485150229
+      machado_40: -6628989865559629395
+      machado_41: 2524053373024265722
+      machado_42: -3643420064733180996
+      machado_43: -5933208363389366661
+      machado_44: -3909888470835195963
+      machado_45: 1045168256657611879
+      machado_46: 3263163756327051889
+      machado_5: 3062655438571052714
+      machado_6: 3470105677705036037
+      machado_7: -4317193620159878944
+      machado_8: -5253074152404535552
+      machado_9: -2309700258902706476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

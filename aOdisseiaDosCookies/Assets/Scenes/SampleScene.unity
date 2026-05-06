@@ -1714,6 +1714,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d9fb5b776b651977a720f5a83e18a2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GabrielPlayer
+  machadoPrefab: {fileID: 8562048302678807020, guid: f62f7e5345aead3398a9176fef60642d, type: 3}
+  cooldown: 1
+  estoqueInicial: 3
 --- !u!114 &1464240947
 MonoBehaviour:
   m_ObjectHideFlags: 0

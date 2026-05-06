@@ -1,14 +1,17 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class MiniComeCome : MonoBehaviour, IInimigo
+public class MiniComeComeSuperior : MonoBehaviour, IInimigo
 {
-    [SerializeField] private float velocidade = 2f;
+    [SerializeField] private float velocidade        = 2f;
     [SerializeField] private float distanciaPatrulha = 4f;
+    [SerializeField] private GameObject projetilPrefab;
+    [SerializeField] private float intervaloDeTiro   = 2f;
 
     private Rigidbody2D rb;
     private Vector2 pontoInicial;
     private bool movendoParaDireita = true;
+    private float proximoTiro;
 
     private void Awake()
     {
@@ -27,6 +30,15 @@ public class MiniComeCome : MonoBehaviour, IInimigo
     private void FixedUpdate()
     {
         Patrulhar();
+    }
+
+    private void Update()
+    {
+        if (Time.time >= proximoTiro)
+        {
+            Atirar();
+            proximoTiro = Time.time + intervaloDeTiro;
+        }
     }
 
     private void Patrulhar()
@@ -53,6 +65,15 @@ public class MiniComeCome : MonoBehaviour, IInimigo
         Vector3 escala = transform.localScale;
         escala.x *= -1;
         transform.localScale = escala;
+    }
+
+    private void Atirar()
+    {
+        if (projetilPrefab == null) return;
+
+        Vector2 direcao = movendoParaDireita ? Vector2.right : Vector2.left;
+        GameObject projetil = Instantiate(projetilPrefab, transform.position, Quaternion.identity);
+        projetil.GetComponent<ProjetilComeCome>().Lancar(direcao);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

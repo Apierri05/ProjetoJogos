@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: f45552c8a88c3d70b83f3ca4ddbf5779
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -93634431965990885
+    second: tavernaDecoracao_0
+  - first:
+      213: 7729527496352120538
+    second: tavernaDecoracao_1
+  - first:
+      213: 4380144218980997144
+    second: tavernaDecoracao_2
+  - first:
+      213: -3615205838085563678
+    second: tavernaDecoracao_3
+  - first:
+      213: 1008012848998173863
+    second: tavernaDecoracao_4
+  - first:
+      213: -4621478796651923354
+    second: tavernaDecoracao_5
+  - first:
+      213: 8890604725243363824
+    second: tavernaDecoracao_6
+  - first:
+      213: 8834441826908984816
+    second: tavernaDecoracao_7
+  - first:
+      213: 2167960230098251260
+    second: tavernaDecoracao_8
+  - first:
+      213: 53473374609227450
+    second: tavernaDecoracao_9
+  - first:
+      213: -8854278575047170345
+    second: tavernaDecoracao_10
+  - first:
+      213: -7398450571095395269
+    second: tavernaDecoracao_11
+  - first:
+      213: 3912567736348786967
+    second: tavernaDecoracao_12
+  - first:
+      213: 8975051593794860014
+    second: tavernaDecoracao_13
+  - first:
+      213: 4466853162774903664
+    second: tavernaDecoracao_14
+  - first:
+      213: 6119989273089740156
+    second: tavernaDecoracao_15
+  - first:
+      213: -1774492108163118546
+    second: tavernaDecoracao_16
+  - first:
+      213: -5002784297166461602
+    second: tavernaDecoracao_17
+  - first:
+      213: -3144508264639560512
+    second: tavernaDecoracao_18
+  - first:
+      213: -1592720043517204421
+    second: tavernaDecoracao_19
+  - first:
+      213: -8184663268209814628
+    second: tavernaDecoracao_20
+  - first:
+      213: -77855855403191450
+    second: tavernaDecoracao_21
+  - first:
+      213: 4759148415493384610
+    second: tavernaDecoracao_22
+  - first:
+      213: -2610144811456910369
+    second: tavernaDecoracao_23
+  - first:
+      213: 5297131767760217218
+    second: tavernaDecoracao_24
+  - first:
+      213: 7104721159213829161
+    second: tavernaDecoracao_25
+  - first:
+      213: 499303823876620954
+    second: tavernaDecoracao_26
+  - first:
+      213: 7769951178934284947
+    second: tavernaDecoracao_27
+  - first:
+      213: 3239518411240010090
+    second: tavernaDecoracao_28
+  - first:
+      213: 1592959915747128664
+    second: tavernaDecoracao_29
+  - first:
+      213: 1600893210761421802
+    second: tavernaDecoracao_30
+  - first:
+      213: 412064836016146533
+    second: tavernaDecoracao_31
+  - first:
+      213: 741634160171192088
+    second: tavernaDecoracao_32
+  - first:
+      213: 7263486526568012653
+    second: tavernaDecoracao_33
+  - first:
+      213: -4502338347811702011
+    second: tavernaDecoracao_34
+  - first:
+      213: -8983304417861208270
+    second: tavernaDecoracao_35
+  - first:
+      213: 6177060987596578068
+    second: tavernaDecoracao_36
+  - first:
+      213: 7208294943350086042
+    second: tavernaDecoracao_37
+  - first:
+      213: 5460228874315068701
+    second: tavernaDecoracao_38
+  - first:
+      213: 5517745745185627514
+    second: tavernaDecoracao_39
+  - first:
+      213: -5506644915393767587
+    second: tavernaDecoracao_40
+  - first:
+      213: 7603625949429670579
+    second: tavernaDecoracao_41
+  - first:
+      213: 8136437417858442944
+    second: tavernaDecoracao_42
+  - first:
+      213: 3128383610547220384
+    second: tavernaDecoracao_43
+  - first:
+      213: -8714789226955406885
+    second: tavernaDecoracao_44
+  - first:
+      213: -6950827619555658053
+    second: tavernaDecoracao_45
+  - first:
+      213: 6787224439181903680
+    second: tavernaDecoracao_46
+  - first:
+      213: -4000897901387507395
+    second: tavernaDecoracao_47
+  - first:
+      213: -4607403818510193612
+    second: tavernaDecoracao_48
+  - first:
+      213: 6991199668636852900
+    second: tavernaDecoracao_49
+  - first:
+      213: -8539622458760793735
+    second: tavernaDecoracao_50
+  - first:
+      213: -5562796929157732951
+    second: tavernaDecoracao_51
+  - first:
+      213: 8543405143304352167
+    second: tavernaDecoracao_52
+  - first:
+      213: -5137834941989656069
+    second: tavernaDecoracao_53
+  - first:
+      213: -5516474663630444891
+    second: tavernaDecoracao_54
+  - first:
+      213: 2693983524715155443
+    second: tavernaDecoracao_55
+  - first:
+      213: -2124252894951295851
+    second: tavernaDecoracao_56
+  - first:
+      213: -8002359394148452585
+    second: tavernaDecoracao_57
+  - first:
+      213: -6601086133861117264
+    second: tavernaDecoracao_58
+  - first:
+      213: -2500943852882538577
+    second: tavernaDecoracao_59
+  - first:
+      213: 5628570680800556969
+    second: tavernaDecoracao_60
+  - first:
+      213: 8923923445969536585
+    second: tavernaDecoracao_61
+  - first:
+      213: 7763646889828113433
+    second: tavernaDecoracao_62
+  - first:
+      213: -2314226722019382883
+    second: tavernaDecoracao_63
+  - first:
+      213: 72609494972649953
+    second: tavernaDecoracao_64
+  - first:
+      213: 3447840484107013300
+    second: tavernaDecoracao_65
+  - first:
+      213: 2043571152312105351
+    second: tavernaDecoracao_66
+  - first:
+      213: -3636454693118166281
+    second: tavernaDecoracao_67
+  - first:
+      213: -4113796667612356136
+    second: tavernaDecoracao_68
+  - first:
+      213: -6850881022177189006
+    second: tavernaDecoracao_69
+  - first:
+      213: 882684819335604636
+    second: tavernaDecoracao_70
+  - first:
+      213: 222178029317583604
+    second: tavernaDecoracao_71
+  - first:
+      213: 7401761728459171592
+    second: tavernaDecoracao_72
+  - first:
+      213: 8325688991035725109
+    second: tavernaDecoracao_73
+  - first:
+      213: -7254609790132898308
+    second: tavernaDecoracao_74
+  - first:
+      213: -9108609680480658161
+    second: tavernaDecoracao_75
+  - first:
+      213: -4153189734853058141
+    second: tavernaDecoracao_76
+  - first:
+      213: -8112186795699218330
+    second: tavernaDecoracao_77
+  - first:
+      213: 7305865702248054358
+    second: tavernaDecoracao_78
+  - first:
+      213: 7436837330391091027
+    second: tavernaDecoracao_79
+  - first:
+      213: 5425794081781034483
+    second: tavernaDecoracao_80
+  - first:
+      213: -2769540894497937636
+    second: tavernaDecoracao_81
+  - first:
+      213: 1544123824003030651
+    second: tavernaDecoracao_82
+  - first:
+      213: 4202552020559592796
+    second: tavernaDecoracao_83
+  - first:
+      213: 8089847595849617558
+    second: tavernaDecoracao_84
+  - first:
+      213: 2143492529248127749
+    second: tavernaDecoracao_85
+  - first:
+      213: -3018989326948022978
+    second: tavernaDecoracao_86
+  - first:
+      213: 8187346341577797960
+    second: tavernaDecoracao_87
+  - first:
+      213: -1733446045215176025
+    second: tavernaDecoracao_88
+  - first:
+      213: 8196827042198004227
+    second: tavernaDecoracao_89
+  - first:
+      213: 5666602434594286758
+    second: tavernaDecoracao_90
+  - first:
+      213: 5881885807157912543
+    second: tavernaDecoracao_91
+  - first:
+      213: 4053344786764778227
+    second: tavernaDecoracao_92
+  - first:
+      213: 6587541832880140133
+    second: tavernaDecoracao_93
+  - first:
+      213: 7910309777705515784
+    second: tavernaDecoracao_94
+  - first:
+      213: -7688542638583561581
+    second: tavernaDecoracao_95
+  - first:
+      213: -5020457049473391698
+    second: tavernaDecoracao_96
+  - first:
+      213: -6062033695113410956
+    second: tavernaDecoracao_97
+  - first:
+      213: 4063315243791913280
+    second: tavernaDecoracao_98
+  - first:
+      213: 4982320766584938679
+    second: tavernaDecoracao_99
+  - first:
+      213: -4838067741386025527
+    second: tavernaDecoracao_100
+  - first:
+      213: -1946023454290937020
+    second: tavernaDecoracao_101
+  - first:
+      213: 1954087390284568561
+    second: tavernaDecoracao_102
+  - first:
+      213: -4534407450435272747
+    second: tavernaDecoracao_103
+  - first:
+      213: 5665093533785126163
+    second: tavernaDecoracao_104
+  - first:
+      213: -3060143871521695734
+    second: tavernaDecoracao_105
+  - first:
+      213: 6825748726746818562
+    second: tavernaDecoracao_106
+  - first:
+      213: 7534176965173466217
+    second: tavernaDecoracao_107
+  - first:
+      213: 3755967590470868413
+    second: tavernaDecoracao_108
+  - first:
+      213: 6692105843900939869
+    second: tavernaDecoracao_109
+  - first:
+      213: 8249614829162179360
+    second: tavernaDecoracao_110
+  - first:
+      213: 5965201009467652543
+    second: tavernaDecoracao_111
+  - first:
+      213: -8252096208203382775
+    second: tavernaDecoracao_112
+  - first:
+      213: 663074503113932322
+    second: tavernaDecoracao_113
+  - first:
+      213: 6681882013824429743
+    second: tavernaDecoracao_114
+  - first:
+      213: -8452566586108443217
+    second: tavernaDecoracao_115
+  - first:
+      213: 4829388060280722624
+    second: tavernaDecoracao_116
+  - first:
+      213: 402787622329416542
+    second: tavernaDecoracao_117
+  - first:
+      213: -7307696594579086633
+    second: tavernaDecoracao_118
+  - first:
+      213: 4763518893923227382
+    second: tavernaDecoracao_119
+  - first:
+      213: 6393669054895935159
+    second: tavernaDecoracao_120
+  - first:
+      213: 2651631705674211903
+    second: tavernaDecoracao_121
+  - first:
+      213: -3749101483749756996
+    second: tavernaDecoracao_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tavernaDecoracao_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 987
+        width: 124
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10fbefeaf753bef0800000000000000
+      internalID: -93634431965990885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 984
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebead1e4cc44b60800000000000000
+      internalID: 7729527496352120538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 987
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d75dc5f569cc30800000000000000
+      internalID: 4380144218980997144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 988
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaddf6c17534ddc0800000000000000
+      internalID: -3615205838085563678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 929
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc091785e2dfd00800000000000000
+      internalID: 1008012848998173863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 987
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668ff8425853ddfb0800000000000000
+      internalID: -4621478796651923354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 989
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14a86a4e5c16b70800000000000000
+      internalID: 8890604725243363824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 799
+        width: 276
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f553c1e80e3a9a70800000000000000
+      internalID: 8834441826908984816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 991
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd2e2ac754261e10800000000000000
+      internalID: 2167960230098251260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 990
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe368a30c9fdb000800000000000000
+      internalID: 53473374609227450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 783
+        width: 78
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d626f74c884f1580800000000000000
+      internalID: -8854278575047170345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_11
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 991
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b29d776c635990800000000000000
+      internalID: -7398450571095395269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_12
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 987
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71149b460ab3c4630800000000000000
+      internalID: 3912567736348786967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_13
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 991
+        width: 111
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee332f86fd9cd8c70800000000000000
+      internalID: 8975051593794860014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_14
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 991
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b370ff8437dfd30800000000000000
+      internalID: 4466853162774903664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_15
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 991
+        width: 110
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d07bb91d19ee450800000000000000
+      internalID: 6119989273089740156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a043c44dcbf57e0800000000000000
+      internalID: -1774492108163118546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 664
+        width: 185
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55ad77003a829ab0800000000000000
+      internalID: -5002784297166461602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 639
+        width: 141
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c401e4c4667c54d0800000000000000
+      internalID: -3144508264639560512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 601
+        width: 147
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38238b1f8585e9e0800000000000000
+      internalID: -1592720043517204421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 800
+        width: 82
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939a2c2f1c3a6e80800000000000000
+      internalID: -8184663268209814628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 789
+        width: 18
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663320313866beef0800000000000000
+      internalID: -77855855403191450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_22
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 783
+        width: 83
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a8d2d444eb0240800000000000000
+      internalID: 4759148415493384610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_23
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 903
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb28c48f17e6cbd0800000000000000
+      internalID: -2610144811456910369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_24
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 903
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e8c10741338940800000000000000
+      internalID: 5297131767760217218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_25
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 899
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c442b704a099260800000000000000
+      internalID: 7104721159213829161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_26
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 883
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a920921be22ede600800000000000000
+      internalID: 499303823876620954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_27
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 897
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39271862e6964db60800000000000000
+      internalID: 7769951178934284947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_28
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 838
+        width: 237
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617c41d4d415fc20800000000000000
+      internalID: 3239518411240010090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_29
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 744
+        width: 236
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553b8f7a945b1610800000000000000
+      internalID: 1592959915747128664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_30
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 787
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3e4cea4e3873610800000000000000
+      internalID: 1600893210761421802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 719
+        width: 202
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680c2ff8c2f7b500800000000000000
+      internalID: 412064836016146533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 713
+        width: 205
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f8c4ed650da4a00800000000000000
+      internalID: 741634160171192088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_33
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 691
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1ce623861dc460800000000000000
+      internalID: 7263486526568012653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_34
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 695
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b7018802b7481c0800000000000000
+      internalID: -4502338347811702011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 635
+        width: 235
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2377f204a34e45380800000000000000
+      internalID: -8983304417861208270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_36
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 624
+        width: 87
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d1e91ad3459b550800000000000000
+      internalID: 6177060987596578068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_37
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 631
+        width: 68
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9950ae4f02090460800000000000000
+      internalID: 7208294943350086042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 635
+        width: 202
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1571ed4b31a6cb40800000000000000
+      internalID: 5460228874315068701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_39
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 577
+        width: 202
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d56be5588f29c40800000000000000
+      internalID: 5517745745185627514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_40
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 595
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575eb9ff977493b0800000000000000
+      internalID: -5506644915393767587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 575
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a2b8e381858960800000000000000
+      internalID: 7603625949429670579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 575
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c626ac09be6ae070800000000000000
+      internalID: 8136437417858442944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 575
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af22d3a1504a6b20800000000000000
+      internalID: 3128383610547220384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 575
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd10ceafe59de0780800000000000000
+      internalID: -8714789226955406885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 575
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb639696b13b98f90800000000000000
+      internalID: -6950827619555658053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 407
+        width: 90
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047894ccaa0113e50800000000000000
+      internalID: 6787224439181903680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 329
+        width: 81
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39113d6e84f978c0800000000000000
+      internalID: -4000897901387507395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_48
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 575
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cebec53a63f00c0800000000000000
+      internalID: -4607403818510193612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 575
+        width: 120
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ade2ce0bb50160800000000000000
+      internalID: 6991199668636852900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_50
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 575
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9717d9d5e9a2d7980800000000000000
+      internalID: -8539622458760793735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_51
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 575
+        width: 86
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a56be77aa9fcc2b0800000000000000
+      internalID: -5562796929157732951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_52
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 575
+        width: 90
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b6e286b5409670800000000000000
+      internalID: 8543405143304352167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_53
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 571
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ed18775eb2b8b0800000000000000
+      internalID: -5137834941989656069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_54
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 571
+        width: 111
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a66ddd558b8173b0800000000000000
+      internalID: -5516474663630444891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_55
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 575
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc66d0eb3f26520800000000000000
+      internalID: 2693983524715155443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_56
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 575
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594355f2f332582e0800000000000000
+      internalID: -2124252894951295851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_57
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 571
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71775c28788e1f090800000000000000
+      internalID: -8002359394148452585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_58
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 575
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b29373a22b3464a0800000000000000
+      internalID: -6601086133861117264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_59
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 575
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf4dbdf0dcda4dd0800000000000000
+      internalID: -2500943852882538577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 400
+        width: 111
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7bb467633bc1e40800000000000000
+      internalID: 5628570680800556969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 407
+        width: 97
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9464bc7d71528db70800000000000000
+      internalID: 8923923445969536585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_62
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 407
+        width: 101
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c55c576b30ebb60800000000000000
+      internalID: 7763646889828113433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_63
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 413
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996150ce0732efd0800000000000000
+      internalID: -2314226722019382883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_64
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 377
+        width: 343
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e15a2373f5f10100800000000000000
+      internalID: 72609494972649953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_65
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 475
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcc86127a039df20800000000000000
+      internalID: 3447840484107013300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_66
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 495
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7897cceb2293c5c10800000000000000
+      internalID: 2043571152312105351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_67
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 561
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab3ee29b7b88dc0800000000000000
+      internalID: -3636454693118166281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_68
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 495
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a7c40abbd8e6c0800000000000000
+      internalID: -4113796667612356136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_69
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 495
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e9a20208cce0a0800000000000000
+      internalID: -6850881022177189006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_70
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 487
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e021aa2def3c00800000000000000
+      internalID: 882684819335604636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_71
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 487
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2fe529db5551300800000000000000
+      internalID: 222178029317583604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_72
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807e3e8631758b660800000000000000
+      internalID: 7401761728459171592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_73
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 379
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359015a60aca8370800000000000000
+      internalID: 8325688991035725109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_74
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 399
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5be0b15d2725b90800000000000000
+      internalID: -7254609790132898308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_75
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 399
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d144d41c7b79180800000000000000
+      internalID: -9108609680480658161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_76
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 399
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e841d0f7ec56c0800000000000000
+      internalID: -4153189734853058141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_77
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 422
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668dbbae619bb6f80800000000000000
+      internalID: -8112186795699218330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_78
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 423
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e7437e526a36560800000000000000
+      internalID: 7305865702248054358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 167
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35743526624f43760800000000000000
+      internalID: 7436837330391091027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 335
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fda9f468fa4c4b40800000000000000
+      internalID: 5425794081781034483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 331
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176888ea3d9099d0800000000000000
+      internalID: -2769540894497937636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 334
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e1be2df64dd6510800000000000000
+      internalID: 1544123824003030651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 164
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dfd8febc6725a30800000000000000
+      internalID: 4202552020559592796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_84
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 335
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6901aadc689e44070800000000000000
+      internalID: 8089847595849617558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_85
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 334
+        width: 107
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc98049173fbd10800000000000000
+      internalID: 2143492529248127749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_86
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 328
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354192d3356a16d0800000000000000
+      internalID: -3018989326948022978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_87
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 305
+        width: 109
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b6d68e1c4f9170800000000000000
+      internalID: 8187346341577797960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_88
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 331
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aac4ad810091f7e0800000000000000
+      internalID: -1733446045215176025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 102
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302278724caf0c170800000000000000
+      internalID: 8196827042198004227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_90
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 169
+        width: 108
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2b5d24e0d3ae40800000000000000
+      internalID: 5666602434594286758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 163
+        width: 90
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd32f016af7a0a150800000000000000
+      internalID: 5881885807157912543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_92
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 145
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3facb47ab9f504830800000000000000
+      internalID: 4053344786764778227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_93
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 213
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fa8db0566ab6b50800000000000000
+      internalID: 6587541832880140133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 248
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bbf6b05d017cd60800000000000000
+      internalID: 7910309777705515784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 191
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39248c2b43fcc4590800000000000000
+      internalID: -7688542638583561581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_96
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 191
+        width: 51
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3680cb9e0c35ab0800000000000000
+      internalID: -5020457049473391698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_97
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 231
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476015ae8745fdba0800000000000000
+      internalID: -6062033695113410956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_98
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 169
+        width: 52
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04195a49fabc36830800000000000000
+      internalID: 4063315243791913280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_99
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 187
+        width: 35
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e859f652c42540800000000000000
+      internalID: 4982320766584938679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_100
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 179
+        width: 42
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d86bb50bbbdcb0800000000000000
+      internalID: -4838067741386025527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_101
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 191
+        width: 40
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bf8629af55ef4e0800000000000000
+      internalID: -1946023454290937020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_102
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 191
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f75bf5d0205e1b10800000000000000
+      internalID: 1954087390284568561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_103
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 239
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbbe9b27c8211c0800000000000000
+      internalID: -4534407450435272747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_104
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 241
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ff94dd847e9e40800000000000000
+      internalID: 5665093533785126163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_105
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 243
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a085c58bc5f2885d0800000000000000
+      internalID: -3060143871521695734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_106
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a1d77d4ee9be50800000000000000
+      internalID: 6825748726746818562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_107
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 191
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96458143806ce8860800000000000000
+      internalID: 7534176965173466217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_108
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 190
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd55e1af90ef1430800000000000000
+      internalID: 3755967590470868413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_109
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 191
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef7090fc22fdc50800000000000000
+      internalID: 6692105843900939869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_110
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 191
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba1029af48c7270800000000000000
+      internalID: 8249614829162179360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_111
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9fe1f86b6a8c250800000000000000
+      internalID: 5965201009467652543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 43
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90080b9583aaa7d80800000000000000
+      internalID: -8252096208203382775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_113
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 40
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e79b95fb6b33900800000000000000
+      internalID: 663074503113932322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_114
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 39
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea3191a40dabc50800000000000000
+      internalID: 6681882013824429743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_115
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa58baa397372ba80800000000000000
+      internalID: -8452566586108443217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_116
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 30
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c49b878ade650340800000000000000
+      internalID: 4829388060280722624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 90
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b7edc553df69500800000000000000
+      internalID: 402787622329416542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_118
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 19
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d228c14aa8d59a90800000000000000
+      internalID: -7307696594579086633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_119
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 62
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6d721223b6b1240800000000000000
+      internalID: 4763518893923227382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_120
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1
+        width: 266
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beca7c5120eab850800000000000000
+      internalID: 6393669054895935159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_121
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2
+        width: 216
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32efd3ccfc7cc420800000000000000
+      internalID: 2651631705674211903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaDecoracao_122
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 17
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa43a601488fbc0800000000000000
+      internalID: -3749101483749756996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tavernaDecoracao_0: -93634431965990885
+      tavernaDecoracao_1: 7729527496352120538
+      tavernaDecoracao_10: -8854278575047170345
+      tavernaDecoracao_100: -4838067741386025527
+      tavernaDecoracao_101: -1946023454290937020
+      tavernaDecoracao_102: 1954087390284568561
+      tavernaDecoracao_103: -4534407450435272747
+      tavernaDecoracao_104: 5665093533785126163
+      tavernaDecoracao_105: -3060143871521695734
+      tavernaDecoracao_106: 6825748726746818562
+      tavernaDecoracao_107: 7534176965173466217
+      tavernaDecoracao_108: 3755967590470868413
+      tavernaDecoracao_109: 6692105843900939869
+      tavernaDecoracao_11: -7398450571095395269
+      tavernaDecoracao_110: 8249614829162179360
+      tavernaDecoracao_111: 5965201009467652543
+      tavernaDecoracao_112: -8252096208203382775
+      tavernaDecoracao_113: 663074503113932322
+      tavernaDecoracao_114: 6681882013824429743
+      tavernaDecoracao_115: -8452566586108443217
+      tavernaDecoracao_116: 4829388060280722624
+      tavernaDecoracao_117: 402787622329416542
+      tavernaDecoracao_118: -7307696594579086633
+      tavernaDecoracao_119: 4763518893923227382
+      tavernaDecoracao_12: 3912567736348786967
+      tavernaDecoracao_120: 6393669054895935159
+      tavernaDecoracao_121: 2651631705674211903
+      tavernaDecoracao_122: -3749101483749756996
+      tavernaDecoracao_13: 8975051593794860014
+      tavernaDecoracao_14: 4466853162774903664
+      tavernaDecoracao_15: 6119989273089740156
+      tavernaDecoracao_16: -1774492108163118546
+      tavernaDecoracao_17: -5002784297166461602
+      tavernaDecoracao_18: -3144508264639560512
+      tavernaDecoracao_19: -1592720043517204421
+      tavernaDecoracao_2: 4380144218980997144
+      tavernaDecoracao_20: -8184663268209814628
+      tavernaDecoracao_21: -77855855403191450
+      tavernaDecoracao_22: 4759148415493384610
+      tavernaDecoracao_23: -2610144811456910369
+      tavernaDecoracao_24: 5297131767760217218
+      tavernaDecoracao_25: 7104721159213829161
+      tavernaDecoracao_26: 499303823876620954
+      tavernaDecoracao_27: 7769951178934284947
+      tavernaDecoracao_28: 3239518411240010090
+      tavernaDecoracao_29: 1592959915747128664
+      tavernaDecoracao_3: -3615205838085563678
+      tavernaDecoracao_30: 1600893210761421802
+      tavernaDecoracao_31: 412064836016146533
+      tavernaDecoracao_32: 741634160171192088
+      tavernaDecoracao_33: 7263486526568012653
+      tavernaDecoracao_34: -4502338347811702011
+      tavernaDecoracao_35: -8983304417861208270
+      tavernaDecoracao_36: 6177060987596578068
+      tavernaDecoracao_37: 7208294943350086042
+      tavernaDecoracao_38: 5460228874315068701
+      tavernaDecoracao_39: 5517745745185627514
+      tavernaDecoracao_4: 1008012848998173863
+      tavernaDecoracao_40: -5506644915393767587
+      tavernaDecoracao_41: 7603625949429670579
+      tavernaDecoracao_42: 8136437417858442944
+      tavernaDecoracao_43: 3128383610547220384
+      tavernaDecoracao_44: -8714789226955406885
+      tavernaDecoracao_45: -6950827619555658053
+      tavernaDecoracao_46: 6787224439181903680
+      tavernaDecoracao_47: -4000897901387507395
+      tavernaDecoracao_48: -4607403818510193612
+      tavernaDecoracao_49: 6991199668636852900
+      tavernaDecoracao_5: -4621478796651923354
+      tavernaDecoracao_50: -8539622458760793735
+      tavernaDecoracao_51: -5562796929157732951
+      tavernaDecoracao_52: 8543405143304352167
+      tavernaDecoracao_53: -5137834941989656069
+      tavernaDecoracao_54: -5516474663630444891
+      tavernaDecoracao_55: 2693983524715155443
+      tavernaDecoracao_56: -2124252894951295851
+      tavernaDecoracao_57: -8002359394148452585
+      tavernaDecoracao_58: -6601086133861117264
+      tavernaDecoracao_59: -2500943852882538577
+      tavernaDecoracao_6: 8890604725243363824
+      tavernaDecoracao_60: 5628570680800556969
+      tavernaDecoracao_61: 8923923445969536585
+      tavernaDecoracao_62: 7763646889828113433
+      tavernaDecoracao_63: -2314226722019382883
+      tavernaDecoracao_64: 72609494972649953
+      tavernaDecoracao_65: 3447840484107013300
+      tavernaDecoracao_66: 2043571152312105351
+      tavernaDecoracao_67: -3636454693118166281
+      tavernaDecoracao_68: -4113796667612356136
+      tavernaDecoracao_69: -6850881022177189006
+      tavernaDecoracao_7: 8834441826908984816
+      tavernaDecoracao_70: 882684819335604636
+      tavernaDecoracao_71: 222178029317583604
+      tavernaDecoracao_72: 7401761728459171592
+      tavernaDecoracao_73: 8325688991035725109
+      tavernaDecoracao_74: -7254609790132898308
+      tavernaDecoracao_75: -9108609680480658161
+      tavernaDecoracao_76: -4153189734853058141
+      tavernaDecoracao_77: -8112186795699218330
+      tavernaDecoracao_78: 7305865702248054358
+      tavernaDecoracao_79: 7436837330391091027
+      tavernaDecoracao_8: 2167960230098251260
+      tavernaDecoracao_80: 5425794081781034483
+      tavernaDecoracao_81: -2769540894497937636
+      tavernaDecoracao_82: 1544123824003030651
+      tavernaDecoracao_83: 4202552020559592796
+      tavernaDecoracao_84: 8089847595849617558
+      tavernaDecoracao_85: 2143492529248127749
+      tavernaDecoracao_86: -3018989326948022978
+      tavernaDecoracao_87: 8187346341577797960
+      tavernaDecoracao_88: -1733446045215176025
+      tavernaDecoracao_89: 8196827042198004227
+      tavernaDecoracao_9: 53473374609227450
+      tavernaDecoracao_90: 5666602434594286758
+      tavernaDecoracao_91: 5881885807157912543
+      tavernaDecoracao_92: 4053344786764778227
+      tavernaDecoracao_93: 6587541832880140133
+      tavernaDecoracao_94: 7910309777705515784
+      tavernaDecoracao_95: -7688542638583561581
+      tavernaDecoracao_96: -5020457049473391698
+      tavernaDecoracao_97: -6062033695113410956
+      tavernaDecoracao_98: 4063315243791913280
+      tavernaDecoracao_99: 4982320766584938679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

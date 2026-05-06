@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: ea2dd2dc0b170f80d9e8f2134aa4e3f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5308602696399435287
+    second: tavernaBase_0
+  - first:
+      213: 865166117176611345
+    second: tavernaBase_1
+  - first:
+      213: -4102175473655229828
+    second: tavernaBase_2
+  - first:
+      213: -134141255330901759
+    second: tavernaBase_3
+  - first:
+      213: -4278978267921200322
+    second: tavernaBase_4
+  - first:
+      213: 5405438453499865552
+    second: tavernaBase_5
+  - first:
+      213: -477950281089957415
+    second: tavernaBase_6
+  - first:
+      213: -870576903003567446
+    second: tavernaBase_7
+  - first:
+      213: 5098346523161808252
+    second: tavernaBase_8
+  - first:
+      213: -690289011169684444
+    second: tavernaBase_9
+  - first:
+      213: 7732534422398175102
+    second: tavernaBase_10
+  - first:
+      213: -7081581783974762465
+    second: tavernaBase_11
+  - first:
+      213: 1420038374664197524
+    second: tavernaBase_12
+  - first:
+      213: 728547621391745961
+    second: tavernaBase_13
+  - first:
+      213: 6221436434029810235
+    second: tavernaBase_14
+  - first:
+      213: -5012353725635549452
+    second: tavernaBase_15
+  - first:
+      213: -4443104532625250642
+    second: tavernaBase_16
+  - first:
+      213: 8653228585440236460
+    second: tavernaBase_17
+  - first:
+      213: -6175438250422244535
+    second: tavernaBase_18
+  - first:
+      213: 1398486710578252620
+    second: tavernaBase_19
+  - first:
+      213: 5139576032500603913
+    second: tavernaBase_20
+  - first:
+      213: -6165280318322515304
+    second: tavernaBase_21
+  - first:
+      213: -5456566930850170776
+    second: tavernaBase_22
+  - first:
+      213: -5448336160704883054
+    second: tavernaBase_23
+  - first:
+      213: 167609658157152001
+    second: tavernaBase_24
+  - first:
+      213: 8734712686120495921
+    second: tavernaBase_25
+  - first:
+      213: -6287718343267324194
+    second: tavernaBase_26
+  - first:
+      213: 957869774342861568
+    second: tavernaBase_27
+  - first:
+      213: -9125734437333314417
+    second: tavernaBase_28
+  - first:
+      213: 2104552070880012688
+    second: tavernaBase_29
+  - first:
+      213: 4897257611141641319
+    second: tavernaBase_30
+  - first:
+      213: 1093550963167779582
+    second: tavernaBase_31
+  - first:
+      213: 8791649113181325168
+    second: tavernaBase_32
+  - first:
+      213: 1596740452736972004
+    second: tavernaBase_33
+  - first:
+      213: 1629668141920012571
+    second: tavernaBase_34
+  - first:
+      213: -3466171816609232177
+    second: tavernaBase_35
+  - first:
+      213: -1580499271791795355
+    second: tavernaBase_36
+  - first:
+      213: 7049541140774203138
+    second: tavernaBase_37
+  - first:
+      213: -2565362336134110187
+    second: tavernaBase_38
+  - first:
+      213: 1813398918887677829
+    second: tavernaBase_39
+  - first:
+      213: 1554447382675874446
+    second: tavernaBase_40
+  - first:
+      213: -8505123802392481827
+    second: tavernaBase_41
+  - first:
+      213: 4152574931139424552
+    second: tavernaBase_42
+  - first:
+      213: 3944739698063068040
+    second: tavernaBase_43
+  - first:
+      213: -9122967775988772283
+    second: tavernaBase_44
+  - first:
+      213: 6448688551145631786
+    second: tavernaBase_45
+  - first:
+      213: 4258078984478175164
+    second: tavernaBase_46
+  - first:
+      213: 4051698857026031984
+    second: tavernaBase_47
+  - first:
+      213: 6410107185872045288
+    second: tavernaBase_48
+  - first:
+      213: 4209490042592397670
+    second: tavernaBase_49
+  - first:
+      213: 3502612606627638339
+    second: tavernaBase_50
+  - first:
+      213: -1887972293763169144
+    second: tavernaBase_51
+  - first:
+      213: 1577695168693925268
+    second: tavernaBase_52
+  - first:
+      213: -4071470528930648701
+    second: tavernaBase_53
+  - first:
+      213: 8312071014005517733
+    second: tavernaBase_54
+  - first:
+      213: -6597250623931181330
+    second: tavernaBase_55
+  - first:
+      213: -2980206357508391512
+    second: tavernaBase_56
+  - first:
+      213: 8322535367122567902
+    second: tavernaBase_57
+  - first:
+      213: -7809501763614004781
+    second: tavernaBase_58
+  - first:
+      213: 983233089468438151
+    second: tavernaBase_59
+  - first:
+      213: -2621609044912136263
+    second: tavernaBase_60
+  - first:
+      213: 8157062559758511987
+    second: tavernaBase_61
+  - first:
+      213: -6158229384218376359
+    second: tavernaBase_62
+  - first:
+      213: -881098294111061089
+    second: tavernaBase_63
+  - first:
+      213: -6628802558789304981
+    second: tavernaBase_64
+  - first:
+      213: 6933233152630989728
+    second: tavernaBase_65
+  - first:
+      213: 2225202429229505259
+    second: tavernaBase_66
+  - first:
+      213: 5121320399970744817
+    second: tavernaBase_67
+  - first:
+      213: -7703123428979042702
+    second: tavernaBase_68
+  - first:
+      213: -8824650144592490130
+    second: tavernaBase_69
+  - first:
+      213: 1091701834678060142
+    second: tavernaBase_70
+  - first:
+      213: 3497886326012629446
+    second: tavernaBase_71
+  - first:
+      213: -5345669453945679033
+    second: tavernaBase_72
+  - first:
+      213: 2420678875591597543
+    second: tavernaBase_73
+  - first:
+      213: 5252066437170887373
+    second: tavernaBase_74
+  - first:
+      213: -4061160738125094148
+    second: tavernaBase_75
+  - first:
+      213: 3374463859480176310
+    second: tavernaBase_76
+  - first:
+      213: 508950658554037340
+    second: tavernaBase_77
+  - first:
+      213: 3275031108399743799
+    second: tavernaBase_78
+  - first:
+      213: 9123558898294049143
+    second: tavernaBase_79
+  - first:
+      213: 8463648081807777153
+    second: tavernaBase_80
+  - first:
+      213: -1340370847307092585
+    second: tavernaBase_81
+  - first:
+      213: -4537735925687813283
+    second: tavernaBase_82
+  - first:
+      213: -2009310296354572203
+    second: tavernaBase_83
+  - first:
+      213: -7735778327824490904
+    second: tavernaBase_84
+  - first:
+      213: 8432217603294356855
+    second: tavernaBase_85
+  - first:
+      213: 1145982343826704594
+    second: tavernaBase_86
+  - first:
+      213: 4419710991183006011
+    second: tavernaBase_87
+  - first:
+      213: -4417674904318770188
+    second: tavernaBase_88
+  - first:
+      213: -4094543540654457834
+    second: tavernaBase_89
+  - first:
+      213: 5033797567619752859
+    second: tavernaBase_90
+  - first:
+      213: 1013348037043163817
+    second: tavernaBase_91
+  - first:
+      213: -6833834477464960006
+    second: tavernaBase_92
+  - first:
+      213: -8604445092802558672
+    second: tavernaBase_93
+  - first:
+      213: -5683830166275009474
+    second: tavernaBase_94
+  - first:
+      213: 6424825024650057545
+    second: tavernaBase_95
+  - first:
+      213: -6722051337512959791
+    second: tavernaBase_96
+  - first:
+      213: -6490531744169857966
+    second: tavernaBase_97
+  - first:
+      213: -1266505826416122584
+    second: tavernaBase_98
+  - first:
+      213: 124044599852183302
+    second: tavernaBase_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tavernaBase_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 429
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94e6b49fd0456b0800000000000000
+      internalID: -5308602696399435287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 990
+        width: 127
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112140eefffa10c00800000000000000
+      internalID: 865166117176611345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 785
+        width: 421
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72d57614252217c0800000000000000
+      internalID: -4102175473655229828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 991
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101d64e2d3f632ef0800000000000000
+      internalID: -134141255330901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 986
+        width: 153
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc0f2bfe30e94c0800000000000000
+      internalID: -4278978267921200322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 987
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a81c52a9f30b40800000000000000
+      internalID: 5405438453499865552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 984
+        width: 127
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c55b60cafd59f0800000000000000
+      internalID: -477950281089957415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_7
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 987
+        width: 135
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa00d25be61be3f0800000000000000
+      internalID: -870576903003567446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 915
+        width: 206
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d48ee8627f0c640800000000000000
+      internalID: 5098346523161808252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 991
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42410e83dc99b66f0800000000000000
+      internalID: -690289011169684444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_10
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 977
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770684a61b7f4b60800000000000000
+      internalID: 7732534422398175102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 989
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ae4623ea29bd90800000000000000
+      internalID: -7081581783974762465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_12
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 886
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955849c06df4b310800000000000000
+      internalID: 1420038374664197524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 919
+        width: 157
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c20f93325c1a00800000000000000
+      internalID: 728547621391745961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_14
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 977
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321503697bf65650800000000000000
+      internalID: 6221436434029810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_15
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 885
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f623e6d7da807ab0800000000000000
+      internalID: -5012353725635549452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_16
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 830
+        width: 146
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a1f8d7fbe652c0800000000000000
+      internalID: -4443104532625250642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 827
+        width: 203
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3db6b3d81761870800000000000000
+      internalID: 8653228585440236460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_18
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 875
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be83f41af6c4aa0800000000000000
+      internalID: -6175438250422244535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 883
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0f17f04c686310800000000000000
+      internalID: 1398486710578252620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 767
+        width: 154
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c5f41cb21735740800000000000000
+      internalID: 5139576032500603913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 763
+        width: 198
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892edad2736807aa0800000000000000
+      internalID: -6165280318322515304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_22
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 799
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868388959416644b0800000000000000
+      internalID: -5456566930850170776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 798
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296154cd02f9364b0800000000000000
+      internalID: -5448336160704883054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_24
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 799
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b1679818735200800000000000000
+      internalID: 167609658157152001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_25
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 799
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6f47d8eee73970800000000000000
+      internalID: 8734712686120495921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 622
+        width: 268
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edee7d50b798db8a0800000000000000
+      internalID: -6287718343267324194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 637
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0033ac81c790b4d00800000000000000
+      internalID: 957869774342861568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 617
+        width: 235
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d23421e0ea5180800000000000000
+      internalID: -9125734437333314417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_29
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 615
+        width: 138
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099ad1445fed43d10800000000000000
+      internalID: 2104552070880012688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_30
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 721
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764fcadb9dd86f340800000000000000
+      internalID: 4897257611141641319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_31
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 721
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad66f9ec21d2f00800000000000000
+      internalID: 1093550963167779582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_32
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 723
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0770d0dc946320a70800000000000000
+      internalID: 8791649113181325168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_33
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 719
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e432eb5bf2c82610800000000000000
+      internalID: 1596740452736972004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_34
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 719
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c9ec6a8ebd9610800000000000000
+      internalID: 1629668141920012571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_35
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 647
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca498ce81fa5efc0800000000000000
+      internalID: -3466171816609232177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_36
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 647
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56326114940f01ae0800000000000000
+      internalID: -1580499271791795355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_37
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 656
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2955415005d160800000000000000
+      internalID: 7049541140774203138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_38
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 654
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5146f821c80066cd0800000000000000
+      internalID: -2565362336134110187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 425
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f906c75bc7a2910800000000000000
+      internalID: 1813398918887677829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 553
+        width: 363
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e826e62a8a1829510800000000000000
+      internalID: 1554447382675874446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_41
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 594
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2dabb6fab7f980800000000000000
+      internalID: -8505123802392481827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_42
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 548
+        width: 293
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f1c906e8e0a930800000000000000
+      internalID: 4152574931139424552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_43
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 555
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b4e62fad78eb630800000000000000
+      internalID: 3944739698063068040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_44
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 535
+        width: 137
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5429adea425b46180800000000000000
+      internalID: -9122967775988772283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_45
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 544
+        width: 192
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f92612185e7950800000000000000
+      internalID: 6448688551145631786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_46
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 446
+        width: 211
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa06fa64cb71b30800000000000000
+      internalID: 4258078984478175164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_47
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 477
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07194e5c4a68a3830800000000000000
+      internalID: 4051698857026031984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_48
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 449
+        width: 244
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4051af58645f850800000000000000
+      internalID: 6410107185872045288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_49
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 449
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669834214ec1b6a30800000000000000
+      internalID: 4209490042592397670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_50
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 461
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c68dbab97cb9030800000000000000
+      internalID: 3502612606627638339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_51
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 487
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8848774a3339cc5e0800000000000000
+      internalID: -1887972293763169144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_52
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 371
+        width: 140
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f9dd956915e510800000000000000
+      internalID: 1577695168693925268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_53
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 449
+        width: 186
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ded91202b3f77c0800000000000000
+      internalID: -4071470528930648701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_54
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 149
+        width: 748
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adae994c886a5370800000000000000
+      internalID: 8312071014005517733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_55
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 287
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69b52e28bd174a0800000000000000
+      internalID: -6597250623931181330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_56
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf95f8b1e24a6d0800000000000000
+      internalID: -2980206357508391512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_57
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 303
+        width: 197
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed247fb52d59f7370800000000000000
+      internalID: 8322535367122567902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_58
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 343
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92003c5831f9390800000000000000
+      internalID: -7809501763614004781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861d25194525ad00800000000000000
+      internalID: 983233089468438151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 247
+        width: 178
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf9f0aa67c2e9bd0800000000000000
+      internalID: -2621609044912136263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_61
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 193
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f6b0d1e25b33170800000000000000
+      internalID: 8157062559758511987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_62
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 199
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9578a44b003998aa0800000000000000
+      internalID: -6158229384218376359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_63
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbe4f05c5b5c3f0800000000000000
+      internalID: -881098294111061089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 213
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db9259133c104a0800000000000000
+      internalID: -6628802558789304981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_65
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 197
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3288781dac73060800000000000000
+      internalID: 6933233152630989728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_66
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 207
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea9f8bd1d181ee10800000000000000
+      internalID: 2225202429229505259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_67
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 197
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9b73515c5921740800000000000000
+      internalID: 5121320399970744817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_68
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 207
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27617b2ed02091590800000000000000
+      internalID: -7703123428979042702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_69
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 215
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e611770d27b888580800000000000000
+      internalID: -8824650144592490130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c0a8d801862f00800000000000000
+      internalID: 1091701834678060142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_71
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 209
+        width: 198
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1dda6b41dfa8030800000000000000
+      internalID: 3497886326012629446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_72
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 175
+        width: 305
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74359e644fd50d5b0800000000000000
+      internalID: -5345669453945679033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 166
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edddeeac9af79120800000000000000
+      internalID: 2420678875591597543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 173
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7254199613e840800000000000000
+      internalID: 5252066437170887373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 183
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26a4c53dbd3a7c0800000000000000
+      internalID: -4061160738125094148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 191
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a5b3600184de20800000000000000
+      internalID: 3374463859480176310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_77
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54805b6de7201700800000000000000
+      internalID: 508950658554037340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_78
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 207
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334584f07f337d20800000000000000
+      internalID: 3275031108399743799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_79
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 199
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779cb24ba746d9e70800000000000000
+      internalID: 9123558898294049143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_80
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 191
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d911c861be47570800000000000000
+      internalID: 8463648081807777153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_81
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 191
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da8f2e0db066de0800000000000000
+      internalID: -1340370847307092585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_82
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b79d0b739b601c0800000000000000
+      internalID: -4537735925687813283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_83
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55830466eee7d14e0800000000000000
+      internalID: -2009310296354572203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_84
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e1bd4c89ef4a490800000000000000
+      internalID: -7735778327824490904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_85
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 149
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e7210c31450570800000000000000
+      internalID: 8432217603294356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_86
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 149
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d809aabed857ef00800000000000000
+      internalID: 1145982343826704594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_87
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1
+        width: 327
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394a57dab7f55d30800000000000000
+      internalID: 4419710991183006011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 870
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f30ce2941441b2c0800000000000000
+      internalID: -4417674904318770188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_89
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cbbe5f7524d27c0800000000000000
+      internalID: -4094543540654457834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_90
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 150
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b936331b734abd540800000000000000
+      internalID: 5033797567619752859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_91
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 149
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a21cc5bba2201e00800000000000000
+      internalID: 1013348037043163817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_92
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 120
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af342ecffb75921a0800000000000000
+      internalID: -6833834477464960006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_93
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 152
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358622c6ced69880800000000000000
+      internalID: -8604445092802558672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_94
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 151
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e345787f39afe11b0800000000000000
+      internalID: -5683830166275009474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_95
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 151
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479e4ad150992950800000000000000
+      internalID: 6424825024650057545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_96
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 33
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0c9996ce976b2a0800000000000000
+      internalID: -6722051337512959791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_97
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ceb5954cffce5a0800000000000000
+      internalID: -6490531744169857966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_98
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 25
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825218e39a77c6ee0800000000000000
+      internalID: -1266505826416122584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tavernaBase_99
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fae7608e1b8b100800000000000000
+      internalID: 124044599852183302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tavernaBase_0: -5308602696399435287
+      tavernaBase_1: 865166117176611345
+      tavernaBase_10: 7732534422398175102
+      tavernaBase_11: -7081581783974762465
+      tavernaBase_12: 1420038374664197524
+      tavernaBase_13: 728547621391745961
+      tavernaBase_14: 6221436434029810235
+      tavernaBase_15: -5012353725635549452
+      tavernaBase_16: -4443104532625250642
+      tavernaBase_17: 8653228585440236460
+      tavernaBase_18: -6175438250422244535
+      tavernaBase_19: 1398486710578252620
+      tavernaBase_2: -4102175473655229828
+      tavernaBase_20: 5139576032500603913
+      tavernaBase_21: -6165280318322515304
+      tavernaBase_22: -5456566930850170776
+      tavernaBase_23: -5448336160704883054
+      tavernaBase_24: 167609658157152001
+      tavernaBase_25: 8734712686120495921
+      tavernaBase_26: -6287718343267324194
+      tavernaBase_27: 957869774342861568
+      tavernaBase_28: -9125734437333314417
+      tavernaBase_29: 2104552070880012688
+      tavernaBase_3: -134141255330901759
+      tavernaBase_30: 4897257611141641319
+      tavernaBase_31: 1093550963167779582
+      tavernaBase_32: 8791649113181325168
+      tavernaBase_33: 1596740452736972004
+      tavernaBase_34: 1629668141920012571
+      tavernaBase_35: -3466171816609232177
+      tavernaBase_36: -1580499271791795355
+      tavernaBase_37: 7049541140774203138
+      tavernaBase_38: -2565362336134110187
+      tavernaBase_39: 1813398918887677829
+      tavernaBase_4: -4278978267921200322
+      tavernaBase_40: 1554447382675874446
+      tavernaBase_41: -8505123802392481827
+      tavernaBase_42: 4152574931139424552
+      tavernaBase_43: 3944739698063068040
+      tavernaBase_44: -9122967775988772283
+      tavernaBase_45: 6448688551145631786
+      tavernaBase_46: 4258078984478175164
+      tavernaBase_47: 4051698857026031984
+      tavernaBase_48: 6410107185872045288
+      tavernaBase_49: 4209490042592397670
+      tavernaBase_5: 5405438453499865552
+      tavernaBase_50: 3502612606627638339
+      tavernaBase_51: -1887972293763169144
+      tavernaBase_52: 1577695168693925268
+      tavernaBase_53: -4071470528930648701
+      tavernaBase_54: 8312071014005517733
+      tavernaBase_55: -6597250623931181330
+      tavernaBase_56: -2980206357508391512
+      tavernaBase_57: 8322535367122567902
+      tavernaBase_58: -7809501763614004781
+      tavernaBase_59: 983233089468438151
+      tavernaBase_6: -477950281089957415
+      tavernaBase_60: -2621609044912136263
+      tavernaBase_61: 8157062559758511987
+      tavernaBase_62: -6158229384218376359
+      tavernaBase_63: -881098294111061089
+      tavernaBase_64: -6628802558789304981
+      tavernaBase_65: 6933233152630989728
+      tavernaBase_66: 2225202429229505259
+      tavernaBase_67: 5121320399970744817
+      tavernaBase_68: -7703123428979042702
+      tavernaBase_69: -8824650144592490130
+      tavernaBase_7: -870576903003567446
+      tavernaBase_70: 1091701834678060142
+      tavernaBase_71: 3497886326012629446
+      tavernaBase_72: -5345669453945679033
+      tavernaBase_73: 2420678875591597543
+      tavernaBase_74: 5252066437170887373
+      tavernaBase_75: -4061160738125094148
+      tavernaBase_76: 3374463859480176310
+      tavernaBase_77: 508950658554037340
+      tavernaBase_78: 3275031108399743799
+      tavernaBase_79: 9123558898294049143
+      tavernaBase_8: 5098346523161808252
+      tavernaBase_80: 8463648081807777153
+      tavernaBase_81: -1340370847307092585
+      tavernaBase_82: -4537735925687813283
+      tavernaBase_83: -2009310296354572203
+      tavernaBase_84: -7735778327824490904
+      tavernaBase_85: 8432217603294356855
+      tavernaBase_86: 1145982343826704594
+      tavernaBase_87: 4419710991183006011
+      tavernaBase_88: -4417674904318770188
+      tavernaBase_89: -4094543540654457834
+      tavernaBase_9: -690289011169684444
+      tavernaBase_90: 5033797567619752859
+      tavernaBase_91: 1013348037043163817
+      tavernaBase_92: -6833834477464960006
+      tavernaBase_93: -8604445092802558672
+      tavernaBase_94: -5683830166275009474
+      tavernaBase_95: 6424825024650057545
+      tavernaBase_96: -6722051337512959791
+      tavernaBase_97: -6490531744169857966
+      tavernaBase_98: -1266505826416122584
+      tavernaBase_99: 124044599852183302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
