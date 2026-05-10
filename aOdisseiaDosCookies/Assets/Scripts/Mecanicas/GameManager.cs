@@ -5,14 +5,15 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public int coletados = 0;
+    private int coletados = 0;
 
     public GameObject portaSaida;
 
     private int totalColetaveis;
-	
+
 	void Start(){
 		totalColetaveis = GameObject.FindGameObjectsWithTag("ColetavelCookie").Length;
+		Debug.Log($"[GameManager] Total de coletaveis na cena: {totalColetaveis}");
 
 		AlexandrePlayer alexandre = FindFirstObjectByType<AlexandrePlayer>();
 		GabrielPlayer gabriel = FindFirstObjectByType<GabrielPlayer>();
@@ -40,6 +41,17 @@ public class GameManager : MonoBehaviour
 				if (colInimigo != null) Physics2D.IgnoreCollision(colInimigo, colCaixa);
 			}
 		}
+
+		for (int i = 0; i < inimigos.Length; i++)
+		{
+			Collider2D colA = inimigos[i].GetComponent<Collider2D>();
+			if (colA == null) continue;
+			for (int j = i + 1; j < inimigos.Length; j++)
+			{
+				Collider2D colB = inimigos[j].GetComponent<Collider2D>();
+				if (colB != null) Physics2D.IgnoreCollision(colA, colB);
+			}
+		}
 	}
     void Awake()
     {
@@ -49,8 +61,9 @@ public class GameManager : MonoBehaviour
     public void ColetouItem()
     {
         coletados++;
+        Debug.Log($"[GameManager] Coletados: {coletados}/{totalColetaveis}");
 
-        if (coletados >= totalColetaveis)
+        if (totalColetaveis > 0 && coletados >= totalColetaveis)
         {
             LiberarSaida();
         }

@@ -7,6 +7,8 @@ public class MiniComeComeSuperior : MonoBehaviour, IInimigo
     [SerializeField] private float distanciaPatrulha = 4f;
     [SerializeField] private GameObject projetilPrefab;
     [SerializeField] private float intervaloDeTiro   = 2f;
+    [SerializeField] private bool atirarParaDireita  = true;
+    [SerializeField] private bool olharParaDireita   = true;
 
     private Rigidbody2D rb;
     private Vector2 pontoInicial;
@@ -25,6 +27,14 @@ public class MiniComeComeSuperior : MonoBehaviour, IInimigo
 
         Collider2D col = GetComponent<Collider2D>();
         if (col != null) col.sharedMaterial = semFriccao;
+
+        movendoParaDireita = olharParaDireita;
+        if (!olharParaDireita)
+        {
+            Vector3 escala = transform.localScale;
+            escala.x *= -1;
+            transform.localScale = escala;
+        }
     }
 
     private void FixedUpdate()
@@ -71,7 +81,7 @@ public class MiniComeComeSuperior : MonoBehaviour, IInimigo
     {
         if (projetilPrefab == null) return;
 
-        Vector2 direcao = movendoParaDireita ? Vector2.right : Vector2.left;
+        Vector2 direcao = atirarParaDireita ? Vector2.right : Vector2.left;
         GameObject projetil = Instantiate(projetilPrefab, transform.position, Quaternion.identity);
         projetil.GetComponent<ProjetilComeCome>().Lancar(direcao);
     }

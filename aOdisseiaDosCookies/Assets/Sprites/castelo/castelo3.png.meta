@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 27bfba13896bc805db505094ed9ecfff
+guid: fd642700edfff5f009d9ac869f7b4315
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -71,273 +71,6 @@ TextureImporter:
   - first:
       213: 8948662704942554536
     second: castelo3_22
-  - first:
-      213: 8551775181852626494
-    second: castelo3_23
-  - first:
-      213: -8805509865587252508
-    second: castelo3_24
-  - first:
-      213: -6803503128313444560
-    second: castelo3_25
-  - first:
-      213: 6226852103263099802
-    second: castelo3_26
-  - first:
-      213: 4862237225104841167
-    second: castelo3_27
-  - first:
-      213: 6582735398427944323
-    second: castelo3_28
-  - first:
-      213: 174272406628491416
-    second: castelo3_29
-  - first:
-      213: 6458036708975303114
-    second: castelo3_30
-  - first:
-      213: -9117033639544897046
-    second: castelo3_31
-  - first:
-      213: -4302700315783042231
-    second: castelo3_32
-  - first:
-      213: -2055624948585929285
-    second: castelo3_33
-  - first:
-      213: -6416788041474219759
-    second: castelo3_34
-  - first:
-      213: 7190108834706167404
-    second: castelo3_35
-  - first:
-      213: 4079599181978214992
-    second: castelo3_36
-  - first:
-      213: 8745151443388977099
-    second: castelo3_37
-  - first:
-      213: 6238379491229532288
-    second: castelo3_38
-  - first:
-      213: 1139718301230186159
-    second: castelo3_39
-  - first:
-      213: 4779214295248465325
-    second: castelo3_40
-  - first:
-      213: 7925706415854314204
-    second: castelo3_41
-  - first:
-      213: 8753785525677136702
-    second: castelo3_42
-  - first:
-      213: 1304395724664392904
-    second: castelo3_43
-  - first:
-      213: 6470633735025666639
-    second: castelo3_44
-  - first:
-      213: -2209770368744388248
-    second: castelo3_45
-  - first:
-      213: 5055511138728907302
-    second: castelo3_46
-  - first:
-      213: -2732576225488630806
-    second: castelo3_47
-  - first:
-      213: 4175776224629795955
-    second: castelo3_48
-  - first:
-      213: -8559282358959641483
-    second: castelo3_49
-  - first:
-      213: 3046879325980167538
-    second: castelo3_50
-  - first:
-      213: 2385490629258163913
-    second: castelo3_51
-  - first:
-      213: -68156717061836039
-    second: castelo3_52
-  - first:
-      213: -1403054282479823785
-    second: castelo3_53
-  - first:
-      213: 5917105164488822203
-    second: castelo3_54
-  - first:
-      213: -5583311123577090352
-    second: castelo3_55
-  - first:
-      213: -4450321211892003936
-    second: castelo3_56
-  - first:
-      213: 3937255018776547142
-    second: castelo3_57
-  - first:
-      213: 5388568473434416198
-    second: castelo3_58
-  - first:
-      213: 2989223476011087291
-    second: castelo3_59
-  - first:
-      213: -322595492066742060
-    second: castelo3_60
-  - first:
-      213: -3700816448699869299
-    second: castelo3_61
-  - first:
-      213: -8345790037150579333
-    second: castelo3_62
-  - first:
-      213: -3027931309468347413
-    second: castelo3_63
-  - first:
-      213: 3008863943004786796
-    second: castelo3_64
-  - first:
-      213: 3585652670890460542
-    second: castelo3_65
-  - first:
-      213: 1484415906384839276
-    second: castelo3_66
-  - first:
-      213: 9201521757757075833
-    second: castelo3_67
-  - first:
-      213: 608532115505456564
-    second: castelo3_68
-  - first:
-      213: 6157325010755439291
-    second: castelo3_69
-  - first:
-      213: -9095623201652429911
-    second: castelo3_70
-  - first:
-      213: 5129488863795315451
-    second: castelo3_71
-  - first:
-      213: 2472031193875473857
-    second: castelo3_72
-  - first:
-      213: 7140838848154855583
-    second: castelo3_73
-  - first:
-      213: -8251160140821942130
-    second: castelo3_74
-  - first:
-      213: 8850259576321525996
-    second: castelo3_75
-  - first:
-      213: -4068760413540100087
-    second: castelo3_76
-  - first:
-      213: -2408581777511560724
-    second: castelo3_77
-  - first:
-      213: 835078553707095125
-    second: castelo3_78
-  - first:
-      213: 4656956672292797607
-    second: castelo3_79
-  - first:
-      213: -8020682515786903160
-    second: castelo3_80
-  - first:
-      213: 8218855617041674774
-    second: castelo3_81
-  - first:
-      213: -5694448121982873459
-    second: castelo3_82
-  - first:
-      213: -5597656487009122413
-    second: castelo3_83
-  - first:
-      213: 9052371496641761066
-    second: castelo3_84
-  - first:
-      213: 2873245731957631807
-    second: castelo3_85
-  - first:
-      213: -2698006551284089191
-    second: castelo3_86
-  - first:
-      213: -1984646957278189819
-    second: castelo3_87
-  - first:
-      213: 7777259204867335241
-    second: castelo3_88
-  - first:
-      213: 2443227539426917422
-    second: castelo3_89
-  - first:
-      213: 1040032013535642211
-    second: castelo3_90
-  - first:
-      213: 2556666512760205597
-    second: castelo3_91
-  - first:
-      213: -7143068520755460453
-    second: castelo3_92
-  - first:
-      213: 2113649016154445195
-    second: castelo3_93
-  - first:
-      213: -4817430321290346492
-    second: castelo3_94
-  - first:
-      213: 905626880313916365
-    second: castelo3_95
-  - first:
-      213: -228025831672365605
-    second: castelo3_96
-  - first:
-      213: 1107284698220545982
-    second: castelo3_97
-  - first:
-      213: -6125463275765334241
-    second: castelo3_98
-  - first:
-      213: 6501220005421438967
-    second: castelo3_99
-  - first:
-      213: -4984326507923796382
-    second: castelo3_100
-  - first:
-      213: -1163846884142422327
-    second: castelo3_101
-  - first:
-      213: 1100080200715712782
-    second: castelo3_102
-  - first:
-      213: 769265307341650708
-    second: castelo3_103
-  - first:
-      213: -8632116951966357467
-    second: castelo3_104
-  - first:
-      213: 6642571474153420417
-    second: castelo3_105
-  - first:
-      213: 1906944569738155286
-    second: castelo3_106
-  - first:
-      213: -307599818607021311
-    second: castelo3_107
-  - first:
-      213: -8898178316353552572
-    second: castelo3_108
-  - first:
-      213: 9002616842650595182
-    second: castelo3_109
-  - first:
-      213: -513768416324835856
-    second: castelo3_110
-  - first:
-      213: -1504398673080143975
-    second: castelo3_111
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -436,10 +169,10 @@ TextureImporter:
       name: castelo3_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 624
-        width: 28
-        height: 36
+        x: 11
+        y: 815
+        width: 150
+        height: 209
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,10 +191,10 @@ TextureImporter:
       name: castelo3_1
       rect:
         serializedVersion: 2
-        x: 43
-        y: 607
-        width: 42
-        height: 54
+        x: 179
+        y: 824
+        width: 342
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,10 +213,10 @@ TextureImporter:
       name: castelo3_2
       rect:
         serializedVersion: 2
-        x: 95
-        y: 607
-        width: 15
-        height: 49
+        x: 415
+        y: 697
+        width: 341
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,10 +235,10 @@ TextureImporter:
       name: castelo3_3
       rect:
         serializedVersion: 2
-        x: 127
-        y: 624
-        width: 14
-        height: 35
+        x: 551
+        y: 855
+        width: 359
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,10 +257,10 @@ TextureImporter:
       name: castelo3_4
       rect:
         serializedVersion: 2
-        x: 179
-        y: 624
-        width: 14
-        height: 35
+        x: 770
+        y: 691
+        width: 447
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +279,10 @@ TextureImporter:
       name: castelo3_5
       rect:
         serializedVersion: 2
-        x: 210
-        y: 607
-        width: 15
-        height: 49
+        x: 922
+        y: 832
+        width: 299
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,10 +301,10 @@ TextureImporter:
       name: castelo3_6
       rect:
         serializedVersion: 2
-        x: 230
-        y: 607
-        width: 20
-        height: 53
+        x: 1268
+        y: 759
+        width: 245
+        height: 265
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +323,10 @@ TextureImporter:
       name: castelo3_7
       rect:
         serializedVersion: 2
-        x: 258
-        y: 576
-        width: 28
-        height: 95
+        x: 3
+        y: 696
+        width: 390
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +345,10 @@ TextureImporter:
       name: castelo3_8
       rect:
         serializedVersion: 2
-        x: 287
-        y: 649
-        width: 98
-        height: 14
+        x: 1069
+        y: 571
+        width: 213
+        height: 173
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,10 +367,10 @@ TextureImporter:
       name: castelo3_9
       rect:
         serializedVersion: 2
-        x: 433
-        y: 576
-        width: 30
-        height: 96
+        x: 1319
+        y: 599
+        width: 186
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -656,10 +389,10 @@ TextureImporter:
       name: castelo3_10
       rect:
         serializedVersion: 2
-        x: 489
-        y: 575
-        width: 14
-        height: 97
+        x: 11
+        y: 568
+        width: 427
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,10 +411,10 @@ TextureImporter:
       name: castelo3_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 561
-        width: 96
-        height: 30
+        x: 11
+        y: 381
+        width: 991
+        height: 182
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -700,10 +433,10 @@ TextureImporter:
       name: castelo3_12
       rect:
         serializedVersion: 2
-        x: 96
+        x: 446
         y: 561
-        width: 32
-        height: 30
+        width: 611
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +455,10 @@ TextureImporter:
       name: castelo3_13
       rect:
         serializedVersion: 2
-        x: 142
-        y: 554
-        width: 68
-        height: 55
+        x: 11
+        y: 216
+        width: 532
+        height: 169
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -744,10 +477,10 @@ TextureImporter:
       name: castelo3_14
       rect:
         serializedVersion: 2
-        x: 308
-        y: 551
-        width: 88
-        height: 90
+        x: 556
+        y: 237
+        width: 302
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -766,10 +499,10 @@ TextureImporter:
       name: castelo3_15
       rect:
         serializedVersion: 2
-        x: 433
-        y: 544
-        width: 30
-        height: 32
+        x: 874
+        y: 197
+        width: 297
+        height: 183
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -788,10 +521,10 @@ TextureImporter:
       name: castelo3_16
       rect:
         serializedVersion: 2
-        x: 41
-        y: 539
-        width: 14
-        height: 6
+        x: 1011
+        y: 361
+        width: 502
+        height: 197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -810,10 +543,10 @@ TextureImporter:
       name: castelo3_17
       rect:
         serializedVersion: 2
-        x: 27
-        y: 521
-        width: 6
-        height: 14
+        x: 1182
+        y: 217
+        width: 323
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,10 +565,10 @@ TextureImporter:
       name: castelo3_18
       rect:
         serializedVersion: 2
-        x: 63
-        y: 521
-        width: 7
-        height: 14
+        x: 11
+        y: 0
+        width: 350
+        height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,10 +587,10 @@ TextureImporter:
       name: castelo3_19
       rect:
         serializedVersion: 2
-        x: 139
-        y: 522
-        width: 10
-        height: 12
+        x: 373
+        y: 0
+        width: 564
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -876,10 +609,10 @@ TextureImporter:
       name: castelo3_20
       rect:
         serializedVersion: 2
-        x: 171
-        y: 525
-        width: 10
-        height: 13
+        x: 943
+        y: 0
+        width: 274
+        height: 198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -898,10 +631,10 @@ TextureImporter:
       name: castelo3_21
       rect:
         serializedVersion: 2
-        x: 187
-        y: 519
-        width: 10
-        height: 13
+        x: 1214
+        y: 25
+        width: 153
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -920,10 +653,10 @@ TextureImporter:
       name: castelo3_22
       rect:
         serializedVersion: 2
-        x: 203
-        y: 525
-        width: 10
-        height: 13
+        x: 1373
+        y: 17
+        width: 140
+        height: 168
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,1964 +667,6 @@ TextureImporter:
       bones: []
       spriteID: 8ad13ee6159003c70800000000000000
       internalID: 8948662704942554536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_23
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 511
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3ec359f7320ea670800000000000000
-      internalID: 8551775181852626494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_24
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 416
-        width: 28
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e2697b4e6b8cc580800000000000000
-      internalID: -8805509865587252508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_25
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 416
-        width: 30
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0374e9883f91591a0800000000000000
-      internalID: -6803503128313444560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_26
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 415
-        width: 14
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9b14e32ff83a6650800000000000000
-      internalID: 6226852103263099802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_27
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 464
-        width: 28
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc91e08bef22a7340800000000000000
-      internalID: 4862237225104841167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_28
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 447
-        width: 42
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 385efa1d7f29a5b50800000000000000
-      internalID: 6582735398427944323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_29
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 447
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8906e3b94d32b6200800000000000000
-      internalID: 174272406628491416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_30
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 464
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac9d7e0bb2e8f9950800000000000000
-      internalID: 6458036708975303114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_31
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 464
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae1c3ad753ac97180800000000000000
-      internalID: -9117033639544897046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_32
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 447
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94b6ac60cdcb944c0800000000000000
-      internalID: -4302700315783042231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_33
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 447
-        width: 20
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb5ea1c1004f873e0800000000000000
-      internalID: -2055624948585929285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_34
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 489
-        width: 98
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11164fc164df2f6a0800000000000000
-      internalID: -6416788041474219759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 401
-        width: 96
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c661f0de3e568c360800000000000000
-      internalID: 7190108834706167404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_36
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 401
-        width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05229c367d5ad9830800000000000000
-      internalID: 4079599181978214992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_37
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 394
-        width: 68
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcfc13a67e40d5970800000000000000
-      internalID: 8745151443388977099
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_38
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 391
-        width: 88
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08081dc481d239650800000000000000
-      internalID: 6238379491229532288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_39
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 384
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fae36d8a1c711df00800000000000000
-      internalID: 1139718301230186159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_40
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 379
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dade0c5841e235240800000000000000
-      internalID: 4779214295248465325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_41
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 361
-        width: 6
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd2e7073ef3cdfd60800000000000000
-      internalID: 7925706415854314204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_42
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 361
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3b11f95e81bb7970800000000000000
-      internalID: 8753785525677136702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_43
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 362
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ccc82720052a1210800000000000000
-      internalID: 1304395724664392904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_44
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 365
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4a2ddf591f4cc950800000000000000
-      internalID: 6470633735025666639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_45
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 359
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8698ec7be815551e0800000000000000
-      internalID: -2209770368744388248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_46
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 365
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62297fd6898c82640800000000000000
-      internalID: 5055511138728907302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_47
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 351
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aeb82169660f31ad0800000000000000
-      internalID: -2732576225488630806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_48
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 256
-        width: 28
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37ca4922a5653f930800000000000000
-      internalID: 4175776224629795955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_49
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 256
-        width: 30
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57c61f52b02573980800000000000000
-      internalID: -8559282358959641483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_50
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 255
-        width: 14
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27d878a9a90b84a20800000000000000
-      internalID: 3046879325980167538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_51
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 304
-        width: 28
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c6b4f3a617fa1120800000000000000
-      internalID: 2385490629258163913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_52
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 287
-        width: 42
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f2f872b3dbdd0ff0800000000000000
-      internalID: -68156717061836039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_53
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 287
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75413345099578ce0800000000000000
-      internalID: -1403054282479823785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_54
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 304
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbd4cf30cc7cd1250800000000000000
-      internalID: 5917105164488822203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_55
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 304
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0de43b06d181482b0800000000000000
-      internalID: -5583311123577090352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_56
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 287
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ab8ac4cf684d32c0800000000000000
-      internalID: -4450321211892003936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_57
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 287
-        width: 20
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64fcc404490f3a630800000000000000
-      internalID: 3937255018776547142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_58
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 329
-        width: 98
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6446dea0a7a08ca40800000000000000
-      internalID: 5388568473434416198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_59
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 241
-        width: 96
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb536e1f9eadb7920800000000000000
-      internalID: 2989223476011087291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_60
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 241
-        width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d03831fb19e58bf0800000000000000
-      internalID: -322595492066742060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_61
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 234
-        width: 68
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8752543c0f04acc0800000000000000
-      internalID: -3700816448699869299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_62
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 231
-        width: 88
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7545a9dd2ccd2c80800000000000000
-      internalID: -8345790037150579333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_63
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 224
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be31bd64480aaf5d0800000000000000
-      internalID: -3027931309468347413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_64
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 219
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c60184480d1a1c920800000000000000
-      internalID: 3008863943004786796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_65
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 201
-        width: 6
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e754b584b1cc2c130800000000000000
-      internalID: 3585652670890460542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_66
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 201
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c62020fe664b99410800000000000000
-      internalID: 1484415906384839276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_67
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 202
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9717324794f52bf70800000000000000
-      internalID: 9201521757757075833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_68
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 205
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b5ae132cb0f17800800000000000000
-      internalID: 608532115505456564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_69
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 199
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbac4b07976337550800000000000000
-      internalID: 6157325010755439291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_70
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 205
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9aba4b683ead5c180800000000000000
-      internalID: -9095623201652429911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_71
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 191
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf287d5c1fa9f2740800000000000000
-      internalID: 5129488863795315451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_72
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 96
-        width: 28
-        height: 95
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c5e1a0064b6e4220800000000000000
-      internalID: 2472031193875473857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_73
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 96
-        width: 30
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f98649e391b591360800000000000000
-      internalID: 7140838848154855583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_74
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 95
-        width: 14
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e803275819dfd7d80800000000000000
-      internalID: -8251160140821942130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_75
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 144
-        width: 28
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce8c4a8a13072da70800000000000000
-      internalID: 8850259576321525996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_76
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 127
-        width: 42
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90855ca06fbd887c0800000000000000
-      internalID: -4068760413540100087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_77
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 127
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce9c1f272aff29ed0800000000000000
-      internalID: -2408581777511560724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_78
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 144
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5542249258bc69b00800000000000000
-      internalID: 835078553707095125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_79
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 144
-        width: 14
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7acb56a7b65d0a040800000000000000
-      internalID: 4656956672292797607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_80
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 127
-        width: 15
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 881d55e4fbfc0b090800000000000000
-      internalID: -8020682515786903160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_81
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 127
-        width: 20
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6123ef963ad3f0270800000000000000
-      internalID: 8218855617041674774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_82
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 169
-        width: 98
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8012518a9149f0b0800000000000000
-      internalID: -5694448121982873459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_83
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 81
-        width: 96
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 397092d25112152b0800000000000000
-      internalID: -5597656487009122413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_84
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 81
-        width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2f04382aeb70ad70800000000000000
-      internalID: 9052371496641761066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_85
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 74
-        width: 68
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3bedb525c1dfd720800000000000000
-      internalID: 2873245731957631807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_86
-      rect:
-        serializedVersion: 2
-        x: 308
-        y: 71
-        width: 88
-        height: 90
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99ef8051651ce8ad0800000000000000
-      internalID: -2698006551284089191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_87
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 64
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 507afd28b1e1574e0800000000000000
-      internalID: -1984646957278189819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_88
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 59
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94421488a006eeb60800000000000000
-      internalID: 7777259204867335241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_89
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 41
-        width: 6
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2c3ef8908618e120800000000000000
-      internalID: 2443227539426917422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_90
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 41
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 36283d12b9fee6e00800000000000000
-      internalID: 1040032013535642211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_91
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 42
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d117536c5aa1b7320800000000000000
-      internalID: 2556666512760205597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_92
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 45
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b968816a609bedc90800000000000000
-      internalID: -7143068520755460453
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_93
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 39
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b855db3e490355d10800000000000000
-      internalID: 2113649016154445195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_94
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 45
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4000b4985ac052db0800000000000000
-      internalID: -4817430321290346492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_95
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 31
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcbf72479de619c00800000000000000
-      internalID: 905626880313916365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_96
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 10
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdd3e87d6b3e5dcf0800000000000000
-      internalID: -228025831672365605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_97
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb749aef09ddd5f00800000000000000
-      internalID: 1107284698220545982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_98
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 7
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1f7e43da9bfdfaa0800000000000000
-      internalID: -6125463275765334241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_99
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f7dec56629f83a50800000000000000
-      internalID: 6501220005421438967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_100
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 10
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26e83aaf27d14dab0800000000000000
-      internalID: -4984326507923796382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_101
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c6eeb9dc6f29dfe0800000000000000
-      internalID: -1163846884142422327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_102
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 7
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e09b9143d15444f00800000000000000
-      internalID: 1100080200715712782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_103
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41b7126a8bafcaa00800000000000000
-      internalID: 769265307341650708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_104
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 10
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 528ea6afd5f843880800000000000000
-      internalID: -8632116951966357467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_105
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 186be08df872f2c50800000000000000
-      internalID: 6642571474153420417
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_106
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 7
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6155a959bf3d67a10800000000000000
-      internalID: 1906944569738155286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_107
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10334fe389f2bbbf0800000000000000
-      internalID: -307599818607021311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_108
-      rect:
-        serializedVersion: 2
-        x: 299
-        y: 10
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44fb9a147f1538480800000000000000
-      internalID: -8898178316353552572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_109
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6f232b0258bfec70800000000000000
-      internalID: 9002616842650595182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_110
-      rect:
-        serializedVersion: 2
-        x: 347
-        y: 7
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f5a420f85abed8f0800000000000000
-      internalID: -513768416324835856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: castelo3_111
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 13
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99f2d72a06d4f1be0800000000000000
-      internalID: -1504398673080143975
       vertices: []
       indices: 
       edges: []
@@ -2913,19 +688,7 @@ TextureImporter:
       castelo3_0: 3001195490764518616
       castelo3_1: 3591619475211061229
       castelo3_10: 3396338195205029546
-      castelo3_100: -4984326507923796382
-      castelo3_101: -1163846884142422327
-      castelo3_102: 1100080200715712782
-      castelo3_103: 769265307341650708
-      castelo3_104: -8632116951966357467
-      castelo3_105: 6642571474153420417
-      castelo3_106: 1906944569738155286
-      castelo3_107: -307599818607021311
-      castelo3_108: -8898178316353552572
-      castelo3_109: 9002616842650595182
       castelo3_11: -7678447810633203527
-      castelo3_110: -513768416324835856
-      castelo3_111: -1504398673080143975
       castelo3_12: 1589060616979999227
       castelo3_13: -128687169804417986
       castelo3_14: -5988304083960560496
@@ -2938,90 +701,13 @@ TextureImporter:
       castelo3_20: -5389525716859477831
       castelo3_21: 3647627143787607620
       castelo3_22: 8948662704942554536
-      castelo3_23: 8551775181852626494
-      castelo3_24: -8805509865587252508
-      castelo3_25: -6803503128313444560
-      castelo3_26: 6226852103263099802
-      castelo3_27: 4862237225104841167
-      castelo3_28: 6582735398427944323
-      castelo3_29: 174272406628491416
       castelo3_3: -2271577087178413442
-      castelo3_30: 6458036708975303114
-      castelo3_31: -9117033639544897046
-      castelo3_32: -4302700315783042231
-      castelo3_33: -2055624948585929285
-      castelo3_34: -6416788041474219759
-      castelo3_35: 7190108834706167404
-      castelo3_36: 4079599181978214992
-      castelo3_37: 8745151443388977099
-      castelo3_38: 6238379491229532288
-      castelo3_39: 1139718301230186159
       castelo3_4: -6149178879641740338
-      castelo3_40: 4779214295248465325
-      castelo3_41: 7925706415854314204
-      castelo3_42: 8753785525677136702
-      castelo3_43: 1304395724664392904
-      castelo3_44: 6470633735025666639
-      castelo3_45: -2209770368744388248
-      castelo3_46: 5055511138728907302
-      castelo3_47: -2732576225488630806
-      castelo3_48: 4175776224629795955
-      castelo3_49: -8559282358959641483
       castelo3_5: -4711605889672853217
-      castelo3_50: 3046879325980167538
-      castelo3_51: 2385490629258163913
-      castelo3_52: -68156717061836039
-      castelo3_53: -1403054282479823785
-      castelo3_54: 5917105164488822203
-      castelo3_55: -5583311123577090352
-      castelo3_56: -4450321211892003936
-      castelo3_57: 3937255018776547142
-      castelo3_58: 5388568473434416198
-      castelo3_59: 2989223476011087291
       castelo3_6: -4161067996653589753
-      castelo3_60: -322595492066742060
-      castelo3_61: -3700816448699869299
-      castelo3_62: -8345790037150579333
-      castelo3_63: -3027931309468347413
-      castelo3_64: 3008863943004786796
-      castelo3_65: 3585652670890460542
-      castelo3_66: 1484415906384839276
-      castelo3_67: 9201521757757075833
-      castelo3_68: 608532115505456564
-      castelo3_69: 6157325010755439291
       castelo3_7: -7297707390062875526
-      castelo3_70: -9095623201652429911
-      castelo3_71: 5129488863795315451
-      castelo3_72: 2472031193875473857
-      castelo3_73: 7140838848154855583
-      castelo3_74: -8251160140821942130
-      castelo3_75: 8850259576321525996
-      castelo3_76: -4068760413540100087
-      castelo3_77: -2408581777511560724
-      castelo3_78: 835078553707095125
-      castelo3_79: 4656956672292797607
       castelo3_8: 5567192177876875015
-      castelo3_80: -8020682515786903160
-      castelo3_81: 8218855617041674774
-      castelo3_82: -5694448121982873459
-      castelo3_83: -5597656487009122413
-      castelo3_84: 9052371496641761066
-      castelo3_85: 2873245731957631807
-      castelo3_86: -2698006551284089191
-      castelo3_87: -1984646957278189819
-      castelo3_88: 7777259204867335241
-      castelo3_89: 2443227539426917422
       castelo3_9: 7359680968179666989
-      castelo3_90: 1040032013535642211
-      castelo3_91: 2556666512760205597
-      castelo3_92: -7143068520755460453
-      castelo3_93: 2113649016154445195
-      castelo3_94: -4817430321290346492
-      castelo3_95: 905626880313916365
-      castelo3_96: -228025831672365605
-      castelo3_97: 1107284698220545982
-      castelo3_98: -6125463275765334241
-      castelo3_99: 6501220005421438967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

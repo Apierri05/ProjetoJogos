@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de26b0ed9c4137b1e9dd5959175ff37f, type: 3}
   m_Name: GabrielStats
   m_EditorClassIdentifier: Assembly-CSharp::GabrielStats
-  moveSpeed: 4
-  jumpForce: 11
+  moveSpeed: 2
+  jumpForce: 8
   canDoubleJump: 0
   maxHealth: 3
   groundCheckRadius: 0.1

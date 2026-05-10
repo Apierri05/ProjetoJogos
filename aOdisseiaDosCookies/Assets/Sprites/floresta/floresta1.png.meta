@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 64f5544998de47f03a42c76bf6d6df50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2789461631766489747
+    second: floresta1_0
+  - first:
+      213: 565382745150906702
+    second: floresta1_1
+  - first:
+      213: 7062630408173100366
+    second: floresta1_2
+  - first:
+      213: -7544050939326257189
+    second: floresta1_3
+  - first:
+      213: 7810840741313825504
+    second: floresta1_4
+  - first:
+      213: -350852440745413065
+    second: floresta1_5
+  - first:
+      213: 484603631769771145
+    second: floresta1_6
+  - first:
+      213: 1441859929964496334
+    second: floresta1_7
+  - first:
+      213: -1222109045158003359
+    second: floresta1_8
+  - first:
+      213: -2393825169560004107
+    second: floresta1_9
+  - first:
+      213: -2852522310330090879
+    second: floresta1_10
+  - first:
+      213: -5360481270958968933
+    second: floresta1_11
+  - first:
+      213: -8448700687089836265
+    second: floresta1_12
+  - first:
+      213: 450275978799042899
+    second: floresta1_13
+  - first:
+      213: 751125760383659980
+    second: floresta1_14
+  - first:
+      213: -847395466906565066
+    second: floresta1_15
+  - first:
+      213: -4533457161471385298
+    second: floresta1_16
+  - first:
+      213: -3675194905171104069
+    second: floresta1_17
+  - first:
+      213: 2486089615099881238
+    second: floresta1_18
+  - first:
+      213: 2042715829859605931
+    second: floresta1_19
+  - first:
+      213: -2814573476931214263
+    second: floresta1_20
+  - first:
+      213: -3370050940096812054
+    second: floresta1_21
+  - first:
+      213: -6410439761756922974
+    second: floresta1_22
+  - first:
+      213: -2012680384436931956
+    second: floresta1_23
+  - first:
+      213: 3462403936053894326
+    second: floresta1_24
+  - first:
+      213: 4511408821670172270
+    second: floresta1_25
+  - first:
+      213: 7497711562436367172
+    second: floresta1_26
+  - first:
+      213: 7319854732512046480
+    second: floresta1_27
+  - first:
+      213: 4674570826790804257
+    second: floresta1_28
+  - first:
+      213: 8221376050087179672
+    second: floresta1_29
+  - first:
+      213: 4837699241957447474
+    second: floresta1_30
+  - first:
+      213: -5584055967786156605
+    second: floresta1_31
+  - first:
+      213: 8361571589849938294
+    second: floresta1_32
+  - first:
+      213: -2596380176246830046
+    second: floresta1_33
+  - first:
+      213: -2628905542992101932
+    second: floresta1_34
+  - first:
+      213: -6043594897662228742
+    second: floresta1_35
+  - first:
+      213: -5107931562827130939
+    second: floresta1_36
+  - first:
+      213: -5579968166169318876
+    second: floresta1_37
+  - first:
+      213: 23452097414853098
+    second: floresta1_38
+  - first:
+      213: -9074598449046504055
+    second: floresta1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floresta1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 816
+        width: 177
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d651af3dc67d949d0800000000000000
+      internalID: -2789461631766489747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 815
+        width: 208
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ead67c94a8d700800000000000000
+      internalID: 565382745150906702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 823
+        width: 384
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9703dfe0830260800000000000000
+      internalID: 7062630408173100366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 839
+        width: 207
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a10a04a52e4790800000000000000
+      internalID: -7544050939326257189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 664
+        width: 236
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eac827454ea56c60800000000000000
+      internalID: 7810840741313825504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 843
+        width: 270
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367ac46095812bf0800000000000000
+      internalID: -350852440745413065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_6
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 801
+        width: 170
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c50808f68a9b600800000000000000
+      internalID: 484603631769771145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 815
+        width: 179
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5476d87f3820410800000000000000
+      internalID: 1441859929964496334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 657
+        width: 209
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db0966c423a0fe0800000000000000
+      internalID: -1222109045158003359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 448
+        width: 132
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99cf9f0bc67ced0800000000000000
+      internalID: -2393825169560004107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 647
+        width: 218
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18af5e2721ec968d0800000000000000
+      internalID: -2852522310330090879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 670
+        width: 357
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2b536faebb95b0800000000000000
+      internalID: -5360481270958968933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 449
+        width: 253
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f596cfc7f20ca80800000000000000
+      internalID: -8448700687089836265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 609
+        width: 207
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3515537fd93bf3600800000000000000
+      internalID: 450275978799042899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_14
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 647
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf205146e88c6a00800000000000000
+      internalID: 751125760383659980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_15
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 511
+        width: 213
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63602c200527d34f0800000000000000
+      internalID: -847395466906565066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 647
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e212c0e1bbce511c0800000000000000
+      internalID: -4533457161471385298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 498
+        width: 293
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe63fca4b51ffcc0800000000000000
+      internalID: -3675194905171104069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 341
+        width: 379
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617e0d3455d508220800000000000000
+      internalID: 2486089615099881238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 321
+        width: 130
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad59d7793f295c10800000000000000
+      internalID: 2042715829859605931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_20
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 455
+        width: 178
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9446741c550a0f8d0800000000000000
+      internalID: -2814573476931214263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 489
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebee88768c2b31d0800000000000000
+      internalID: -3370050940096812054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 335
+        width: 311
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab507a200b8907a0800000000000000
+      internalID: -6410439761756922974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 183
+        width: 128
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827d3f9ad58114e0800000000000000
+      internalID: -2012680384436931956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_24
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 183
+        width: 189
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc1865090eec0030800000000000000
+      internalID: 3462403936053894326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_25
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 265
+        width: 194
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d63cbb6ebb9e30800000000000000
+      internalID: 4511408821670172270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_26
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 183
+        width: 288
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443db5301f83d0860800000000000000
+      internalID: 7497711562436367172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_27
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 283
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da7d2d819559560800000000000000
+      internalID: 7319854732512046480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_28
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 344
+        width: 313
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b154866696fd040800000000000000
+      internalID: 4674570826790804257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 180
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b95675f1381270800000000000000
+      internalID: 8221376050087179672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_30
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 183
+        width: 237
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237dc0f44d5f22340800000000000000
+      internalID: 4837699241957447474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb432dea27182b0800000000000000
+      internalID: -5584055967786156605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f0093f054a0470800000000000000
+      internalID: 8361571589849938294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c01f46cfdc7fbd0800000000000000
+      internalID: -2596380176246830046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd76e15650448bd0800000000000000
+      internalID: -2628905542992101932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 13
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ca7ef576d02ca0800000000000000
+      internalID: -6043594897662228742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_36
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 9
+        width: 143
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7deac7e4bfc19b0800000000000000
+      internalID: -5107931562827130939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_37
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a6d7d4488ff82b0800000000000000
+      internalID: -5579968166169318876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1
+        width: 263
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae176afee81535000800000000000000
+      internalID: 23452097414853098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floresta1_39
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 17
+        width: 194
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db5453acc801280800000000000000
+      internalID: -9074598449046504055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0546fc38423cdacab937b1261beff615
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floresta1_0: -2789461631766489747
+      floresta1_1: 565382745150906702
+      floresta1_10: -2852522310330090879
+      floresta1_11: -5360481270958968933
+      floresta1_12: -8448700687089836265
+      floresta1_13: 450275978799042899
+      floresta1_14: 751125760383659980
+      floresta1_15: -847395466906565066
+      floresta1_16: -4533457161471385298
+      floresta1_17: -3675194905171104069
+      floresta1_18: 2486089615099881238
+      floresta1_19: 2042715829859605931
+      floresta1_2: 7062630408173100366
+      floresta1_20: -2814573476931214263
+      floresta1_21: -3370050940096812054
+      floresta1_22: -6410439761756922974
+      floresta1_23: -2012680384436931956
+      floresta1_24: 3462403936053894326
+      floresta1_25: 4511408821670172270
+      floresta1_26: 7497711562436367172
+      floresta1_27: 7319854732512046480
+      floresta1_28: 4674570826790804257
+      floresta1_29: 8221376050087179672
+      floresta1_3: -7544050939326257189
+      floresta1_30: 4837699241957447474
+      floresta1_31: -5584055967786156605
+      floresta1_32: 8361571589849938294
+      floresta1_33: -2596380176246830046
+      floresta1_34: -2628905542992101932
+      floresta1_35: -6043594897662228742
+      floresta1_36: -5107931562827130939
+      floresta1_37: -5579968166169318876
+      floresta1_38: 23452097414853098
+      floresta1_39: -9074598449046504055
+      floresta1_4: 7810840741313825504
+      floresta1_5: -350852440745413065
+      floresta1_6: 484603631769771145
+      floresta1_7: 1441859929964496334
+      floresta1_8: -1222109045158003359
+      floresta1_9: -2393825169560004107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

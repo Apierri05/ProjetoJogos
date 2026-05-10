@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fe90f705c3e177bebf64e87ebdcfad9, type: 3}
   m_Name: AlexandreStats
   m_EditorClassIdentifier: Assembly-CSharp::AlexandreStats
-  moveSpeed: 4
-  jumpForce: 10
+  moveSpeed: 2
+  jumpForce: 7
   canDoubleJump: 1
   maxHealth: 3
   groundCheckRadius: 0.1
