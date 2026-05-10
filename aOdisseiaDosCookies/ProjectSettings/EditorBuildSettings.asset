@@ -5,9 +5,48 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 402a3ef2d89464852a25405c8db05722
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: cc73760c1ee7c1c4fb09953e2299f8f7
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: c5b7ba50d076f8a469babe9cac8d68a5
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: c7efbb3bfdaa5405595a70323d749eff
+  - enabled: 1
+    path: Assets/Scenes/Cutscene4.unity
+    guid: e3fab63b8fad041f4a400925156fff57
+  - enabled: 1
+    path: Assets/Scenes/Cutscene5.unity
+    guid: 184c1a5661ef94dac80641a6d27d36a4
+  - enabled: 1
+    path: Assets/Scenes/Gabriel.unity
+    guid: 3edd74c49cde14216acbec220b3db99e
+  - enabled: 1
+    path: Assets/Scenes/Herois.unity
+    guid: 2da6a6d901ebf422683d1c830f972a13
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: 473e85e5260d749c8847aa455720f217
+  - enabled: 1
+    path: Assets/Scenes/Instrucoes.unity
+    guid: 5356797f9c75141d89049e9a76ff10f2
+  - enabled: 1
+    path: Assets/Scenes/Cutscene6.unity
+    guid: dc24b6fc658da4777a1d78eef204ea23
+  - enabled: 1
+    path: Assets/Scenes/Alexandre.unity
+    guid: 0f1dbde7059e04c46abbf43caa7ccac1
+  - enabled: 1
+    path: Assets/Scenes/Inimigos.unity
+    guid: bef6643ada3344bddb14d5ac1cf492e1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
