@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1d99b8fe08ff7470da2050297025c9f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1171088549541093266
+    second: AlexandreFeliz 1_0
+  - first:
+      213: -5686831450643829976
+    second: AlexandreFeliz 1_1
+  - first:
+      213: -408020779999163118
+    second: AlexandreFeliz 1_2
+  - first:
+      213: 3306115758059809897
+    second: AlexandreFeliz 1_3
+  - first:
+      213: -4872074510974099904
+    second: AlexandreFeliz 1_4
+  - first:
+      213: -7796981431790860018
+    second: AlexandreFeliz 1_5
+  - first:
+      213: 1044254649297209881
+    second: AlexandreFeliz 1_6
+  - first:
+      213: 8883080162500858994
+    second: AlexandreFeliz 1_7
+  - first:
+      213: -8538096089209441147
+    second: AlexandreFeliz 1_8
+  - first:
+      213: 7469457835428019744
+    second: AlexandreFeliz 1_9
+  - first:
+      213: -8923773565204587208
+    second: AlexandreFeliz 1_10
+  - first:
+      213: -6652907004513053163
+    second: AlexandreFeliz 1_11
+  - first:
+      213: 6041286683957290309
+    second: AlexandreFeliz 1_12
+  - first:
+      213: -9115054369914719824
+    second: AlexandreFeliz 1_13
+  - first:
+      213: 3967352195681160051
+    second: AlexandreFeliz 1_14
+  - first:
+      213: 2575292190487905721
+    second: AlexandreFeliz 1_15
+  - first:
+      213: 3856279349386172180
+    second: AlexandreFeliz 1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 625
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f9ce3c4da804010800000000000000
+      internalID: 1171088549541093266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 617
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82beadefce05411b0800000000000000
+      internalID: -5686831450643829976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 617
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d0c2b234b665af0800000000000000
+      internalID: -408020779999163118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 26
+        width: 355
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce971f3cea1ed20800000000000000
+      internalID: 3306115758059809897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 599
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e572eab0ae26cb0800000000000000
+      internalID: -4872074510974099904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 606
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e090acda2be8bc390800000000000000
+      internalID: -7796981431790860018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 607
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a09622210fd7e00800000000000000
+      internalID: 1044254649297209881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 597
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274de2dd75a074b70800000000000000
+      internalID: 8883080162500858994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 567
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f488f7d6928980800000000000000
+      internalID: -8538096089209441147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 524
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef1719358d8a760800000000000000
+      internalID: 7469457835428019744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 434
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d95fdf833682480800000000000000
+      internalID: -8923773565204587208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 403
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5169a48f3502ca3a0800000000000000
+      internalID: -6652907004513053163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545629f1b36f6d350800000000000000
+      internalID: 6041286683957290309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17cdc1852d08180800000000000000
+      internalID: -9115054369914719824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 247
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b01725dcdde0730800000000000000
+      internalID: 3967352195681160051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 247
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b58ede4a964db320800000000000000
+      internalID: 2575292190487905721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlexandreFeliz 1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 222
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41756d603a1448530800000000000000
+      internalID: 3856279349386172180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AlexandreFeliz 1_0: 1171088549541093266
+      AlexandreFeliz 1_1: -5686831450643829976
+      AlexandreFeliz 1_10: -8923773565204587208
+      AlexandreFeliz 1_11: -6652907004513053163
+      AlexandreFeliz 1_12: 6041286683957290309
+      AlexandreFeliz 1_13: -9115054369914719824
+      AlexandreFeliz 1_14: 3967352195681160051
+      AlexandreFeliz 1_15: 2575292190487905721
+      AlexandreFeliz 1_16: 3856279349386172180
+      AlexandreFeliz 1_2: -408020779999163118
+      AlexandreFeliz 1_3: 3306115758059809897
+      AlexandreFeliz 1_4: -4872074510974099904
+      AlexandreFeliz 1_5: -7796981431790860018
+      AlexandreFeliz 1_6: 1044254649297209881
+      AlexandreFeliz 1_7: 8883080162500858994
+      AlexandreFeliz 1_8: -8538096089209441147
+      AlexandreFeliz 1_9: 7469457835428019744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
