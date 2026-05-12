@@ -47,6 +47,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Inimigos.unity
     guid: bef6643ada3344bddb14d5ac1cf492e1
+  - enabled: 1
+    path: Assets/Scenes/Fase1-Tutorial.unity
+    guid: 881c1e685c7876b7f9da1ca0ac6ce52e
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: bd27fbe7742db0c4680f4f0730752049
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: 659d1f891eb49745685a3b5fd5024378
+  - enabled: 1
+    path: Assets/Scenes/Fase4.unity
+    guid: 8aa2def8b30f1ddb68a89de95ed63669
+  - enabled: 1
+    path: Assets/Scenes/Fase5.unity
+    guid: b7de0fee302dd6a5ba7fba2e7172004d
+  - enabled: 1
+    path: Assets/Scenes/Fase6.unity
+    guid: aeada80240bf7284fb3219ab996e38b6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

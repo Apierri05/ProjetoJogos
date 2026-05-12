@@ -839,7 +839,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1111f6d0c9e9b7a37bda19efab080794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortaSaida
-  proximaCena: Fase5
+  proximaCena: Cutscene4
 --- !u!212 &218618643
 SpriteRenderer:
   serializedVersion: 2
@@ -1657,7 +1657,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: -17, y: -11, z: 0}
+  - first: {x: -16, y: -11, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 3
@@ -1667,7 +1667,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: -10, y: -10, z: 0}
+  - first: {x: -9, y: -10, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 3
@@ -2592,7 +2592,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffbb6328d85cf094ebaef7b3bfcb1ba3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  portaSaida: {fileID: 0}
+  portaSaida: {fileID: 218618639}
 --- !u!4 &747989610
 Transform:
   m_ObjectHideFlags: 0
