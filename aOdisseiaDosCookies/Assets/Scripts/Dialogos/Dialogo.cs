@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Dialogo : MonoBehaviour
 {
@@ -17,6 +18,7 @@ public class Dialogo : MonoBehaviour
     public float textSpeed;
 
     [SerializeField] private CutsceneEvent[] events;
+    [SerializeField] private string proximaCena;
 
     private int index;
 
@@ -71,7 +73,11 @@ public class Dialogo : MonoBehaviour
         }
         else
         {
-            gameObject.SetActive(false);
+            string cena = !string.IsNullOrEmpty(proximaCena) ? proximaCena : GameManager.cenaParaReiniciar;
+            if (!string.IsNullOrEmpty(cena))
+                SceneManager.LoadScene(cena);
+            else
+                gameObject.SetActive(false);
         }
     }
 

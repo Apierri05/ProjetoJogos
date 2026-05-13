@@ -204,7 +204,7 @@ Transform:
   m_GameObject: {fileID: 182690453}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: 155.62793, y: -415.66446, z: -5909.9214}
+  m_LocalPosition: {x: 173, y: -714, z: -5909.9214}
   m_LocalScale: {x: 93.869255, y: 80.0072, z: 65.665794}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -281,6 +281,7 @@ MonoBehaviour:
   - lineIndex: 5
     target: {fileID: 182690453}
     activate: 0
+  proximaCena: Fase5
 --- !u!114 &275164441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -620,7 +621,7 @@ Transform:
   m_GameObject: {fileID: 733063894}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -294.83942, y: -436.80228, z: -5909.9214}
+  m_LocalPosition: {x: -307, y: -737, z: -5909.9214}
   m_LocalScale: {x: 152.42084, y: 144.12027, z: 65.665794}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1044,7 +1045,7 @@ Transform:
   m_GameObject: {fileID: 1829678137}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: 157.53882, y: -394.53323, z: -5909.9214}
+  m_LocalPosition: {x: 190, y: -716, z: -5909.9214}
   m_LocalScale: {x: 164.42944, y: 143.70032, z: 65.665794}
   m_ConstrainProportionsScale: 0
   m_Children: []

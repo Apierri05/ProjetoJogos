@@ -33,6 +33,8 @@ public class Elevador : MonoBehaviour
             estado = Estado.IndoParaB;
     }
 
+    public bool EstaParado() => estado == Estado.Parado;
+
     private void FixedUpdate()
     {
         if (estado == Estado.Parado) return;

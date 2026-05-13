@@ -76,8 +76,11 @@ public class GameManager : MonoBehaviour
         portaSaida.GetComponent<PortaSaida>().Liberar();
     }
 
+    public static string cenaParaReiniciar;
+
     public void MorrerJogadores()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        cenaParaReiniciar = SceneManager.GetActiveScene().name;
+        SceneManager.LoadScene("Cutscene6");
     }
 }
